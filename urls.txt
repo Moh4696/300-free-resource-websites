@@ -8,93 +8,193 @@
 8|mynoise.net|custom focus soundscapes
 9|summarize.tech|summarize any YouTube video
 10|subtitlecat.com|auto-subtitles for any video
-11|photopea.com|free photoshop in your browser
-12|remove.bg|one-click background removal
-13|cleanup.pictures|erase objects from photos
-14|unscreen.com|free video background removal
-15|squoosh.app|free compression for any image
-16|tinypng.com|image compression that just works
-17|tineye.com|reverse image search
-18|unsplash.com|free high-res stock photos
-19|pexels.com|free stock photos and videos
-20|pixabay.com|free stock images, vectors, music
-21|undraw.co|free illustrations you can recolor
-22|heroicons.com|free SVG icons
-23|lucide.dev|clean open-source icon set
-24|coolors.co|color palette generator
-25|tinywow.com|100+ free tools in one place
-26|smallpdf.com|free PDF editing
-27|ilovepdf.com|merge and split PDFs
-28|pdfdrive.com|free PDF downloads
-29|pdf24.org|full PDF toolkit, free
-30|sejda.com|browser-based PDF editor
-31|gutenberg.org|70,000 free classic books
-32|openculture.com|free courses from top universities
-33|libgen.li|millions of free textbooks
-34|sci-hub.al|free research papers
-35|annas-archive.org|search every book ever written
-36|standardebooks.org|beautifully formatted public domain books
-37|coursera.org|audit thousands of university courses free
-38|edx.org|free courses from MIT, Harvard, more
-39|khanacademy.org|free K-12 and college subjects
-40|freecodecamp.org|full dev curriculum, free
-41|theodinproject.com|free full-stack dev path
-42|cs50.harvard.edu|Harvard's intro CS course, free
-43|elicit.com|AI research paper assistant
-44|consensus.app|search scientific consensus
-45|connectedpapers.com|visualize and map research
-46|semanticscholar.org|free academic search
-47|scispace.com|understand any research paper
-48|researchrabbit.ai|discover related papers
-49|scholar.google.com|academic search engine
-50|regex101.com|instantly test any regular expression
-51|codebeautify.org|cleanly format any code
-52|explainshell.com|understand terminal commands
-53|carbon.now.sh|turn code into artwork
-54|ray.so|stunning code screenshots
-55|phind.com|developer AI search
-56|devdocs.io|every dev doc in one searchable place
-57|caniuse.com|browser support for any web feature
-58|jsonformatter.org|format and validate JSON
-59|transform.tools|convert between data and code formats
-60|crontab.guru|explain any cron expression
-61|shields.io|generate readme badges
-62|excalidraw.com|free hand-drawn charts
-63|tldraw.com|infinite whiteboard in your browser
-64|miro.com|collaborative whiteboard (free tier)
-65|notion.so|free notes, docs, databases
-66|obsidian.md|local-first markdown knowledge base
-67|cryptpad.fr|encrypted google-docs alternative
-68|temp-mail.org|one-click temporary email
-69|10minutemail.com|instant temporary email
-70|privnote.com|send self-destructing messages
-71|file.io|share auto-deleting files
-72|accountkiller.com|delete yourself from any website
-73|simplelogin.io|free email aliases
-74|crypt.ee|encrypted notes and photos
-75|haveibeenpwned.com|check if you've been hacked
-76|virustotal.com|scan any file for malware
-77|downdetector.com|check if any website is down
-78|urlvoid.com|check if a URL is sketchy
-79|whoer.net|see what sites see about you
-80|wolframalpha.com|instantly solve any math problem
-81|alternativeto.net|find free app alternatives
-82|flightradar24.com|real-time tracking for any flight
-83|camelcamelcamel.com|track amazon price history
-84|fast.com|check internet speed
-85|speedtest.net|bandwidth and latency check
-86|wetransfer.com|send files up to 2GB free
-87|fakespot.com|detect fake amazon reviews
-88|xe.com|clean currency conversion
-89|timeanddate.com|meeting planner across timezones
-90|taxifarefinder.com|estimate cab fare anywhere
-91|hemingwayapp.com|make your writing clearer
-92|languagetool.org|free grammar checker
-93|deepl.com|translation that beats google translate
-94|quillbot.com|paraphrase and summarize (free tier)
-95|perplexity.ai|AI search with sources
-96|claude.ai|Anthropic's AI assistant
-97|you.com|AI search and writing
-98|rytr.me|free AI writing (small tier)
-99|audiomass.co|free browser audio editor
-100|clipchamp.com|free in-browser video editor
+11|audiomass.co|free browser audio editor
+12|clipchamp.com|free in-browser video editor
+13|kapwing.com|browser video editor with AI subtitles
+14|veed.io|browser video editor famous for auto-captions
+15|descript.com|edit audio/video by editing the transcript
+16|freesound.org|CC-licensed sound effects and samples
+17|musopen.org|public-domain classical recordings and sheet music
+18|freemusicarchive.org|curated CC-licensed music library
+19|incompetech.com|Kevin MacLeod's royalty-free music
+20|ezgif.com|browser GIF/video/image conversion tools
+21|loom.com|screen and webcam recorder with share link
+22|otter.ai|auto-transcribe meetings and audio
+23|photopea.com|free photoshop in your browser
+24|remove.bg|one-click background removal
+25|cleanup.pictures|erase objects from photos
+26|unscreen.com|free video background removal
+27|squoosh.app|free compression for any image
+28|tinypng.com|image compression that just works
+29|tineye.com|reverse image search
+30|coolors.co|color palette generator
+31|canva.com|full graphic design suite in the browser
+32|figma.com|collaborative UI design tool
+33|pixlr.com|free browser photo editor
+34|gimp.org|desktop photoshop alternative (open source)
+35|inkscape.org|desktop vector editor (open source)
+36|krita.org|free digital painting software
+37|app.diagrams.net|free full-featured diagram editor (draw.io)
+38|mermaid.live|turn text into flowcharts and diagrams
+39|colorhunt.co|curated color palette library
+40|realtimecolors.com|preview color palettes on a real UI mock
+41|undraw.co|free illustrations you can recolor
+42|heroicons.com|free SVG icons
+43|lucide.dev|clean open-source icon set
+44|fontshare.com|free professional fonts for commercial use
+45|fonts.google.com|hundreds of free open-source webfonts
+46|flaticon.com|millions of free icons
+47|svgrepo.com|500K+ free SVG icons and illustrations
+48|haikei.app|generate custom SVG shapes, blobs and waves
+49|humaaans.com|mix-and-match illustrated people
+50|blush.design|customizable illustrations from top artists
+51|open-doodles.com|free hand-drawn open-source illustrations
+52|unsplash.com|free high-res stock photos
+53|pexels.com|free stock photos and videos
+54|pixabay.com|free stock images, vectors, music
+55|stocksnap.io|CC0 stock photos, no attribution
+56|kaboompics.com|curated free stock photography
+57|coverr.co|free stock video clips
+58|freepik.com|huge library of vectors, photos, PSDs
+59|tinywow.com|100+ free tools in one place
+60|smallpdf.com|free PDF editing
+61|ilovepdf.com|merge and split PDFs
+62|pdf24.org|full PDF toolkit, free
+63|sejda.com|browser-based PDF editor
+64|gutenberg.org|70,000 free classic books
+65|standardebooks.org|beautifully formatted public domain books
+66|openlibrary.org|Internet Archive's book catalog with digital lending
+67|openstax.org|free peer-reviewed college textbooks
+68|goalkicker.com|free programming books
+69|pdfdrive.com|free PDF downloads
+70|libgen.li|millions of free textbooks
+71|annas-archive.gs|search every book ever written
+72|openculture.com|free courses from top universities
+73|coursera.org|audit thousands of university courses free
+74|edx.org|free courses from MIT, Harvard, more
+75|khanacademy.org|free K-12 and college subjects
+76|freecodecamp.org|full dev curriculum, free
+77|theodinproject.com|free full-stack dev path
+78|cs50.harvard.edu|Harvard's intro CS course, free
+79|ocw.mit.edu|MIT OpenCourseWare, entire courses free
+80|classcentral.com|MOOC aggregator and search
+81|codecademy.com|interactive coding lessons
+82|exercism.org|coding exercises with mentor feedback
+83|leetcode.com|coding interview prep
+84|codewars.com|programming challenges ranked by difficulty
+85|javascript.info|free modern JavaScript reference
+86|eloquentjavascript.net|free excellent JavaScript textbook
+87|learngitbranching.js.org|interactive game to master git
+88|roadmap.sh|community developer learning roadmaps
+89|fullstackopen.com|University of Helsinki's free full-stack course
+90|devhints.io|community cheatsheets on every dev topic
+91|scholar.google.com|academic search engine
+92|semanticscholar.org|free academic search
+93|connectedpapers.com|visualize and map research
+94|researchrabbit.ai|discover related papers
+95|elicit.com|AI research paper assistant
+96|consensus.app|search scientific consensus
+97|scispace.com|understand any research paper
+98|arxiv.org|free preprints for physics, math, CS
+99|biorxiv.org|free preprint server for biology
+100|doaj.org|Directory of Open Access Journals
+101|openreview.net|open peer-review platform
+102|sci-hub.al|free research papers
+103|regex101.com|instantly test any regular expression
+104|explainshell.com|understand terminal commands
+105|crontab.guru|explain any cron expression
+106|caniuse.com|browser support for any web feature
+107|devdocs.io|every dev doc in one searchable place
+108|jsonformatter.org|format and validate JSON
+109|codebeautify.org|cleanly format any code
+110|transform.tools|convert between data and code formats
+111|carbon.now.sh|turn code into artwork
+112|www.ray.so|stunning code screenshots
+113|shields.io|generate readme badges
+114|phind.com|developer AI search
+115|codesandbox.io|instant cloud IDE and collaboration
+116|stackblitz.com|instant browser-native dev environment
+117|codepen.io|front-end playground and social platform
+118|replit.com|cloud IDE for any language
+119|jsfiddle.net|classic JS/HTML/CSS playground
+120|postman.com|API client and testing platform
+121|webhook.site|inspect incoming HTTP requests with a unique URL
+122|picsum.photos|Lorem Ipsum for images
+123|randomuser.me|fake user data as a free API
+124|mockaroo.com|generate custom mock datasets
+125|readme.so|drag-and-drop README builder
+126|dbdiagram.io|design DB schemas as code, export SQL
+127|jsonplaceholder.typicode.com|free fake REST API for testing
+128|httpbin.org|simple HTTP request/response service for testing
+129|gitignore.io|generate .gitignore files for any stack
+130|30secondsofcode.org|short curated code snippets
+131|snyk.io|vulnerability scanning for open-source deps
+132|codeium.com|free AI code completion
+133|wakatime.com|automatic coding-time tracker
+134|excalidraw.com|free hand-drawn charts
+135|tldraw.com|infinite whiteboard in your browser
+136|miro.com|collaborative whiteboard (free tier)
+137|notion.so|free notes, docs, databases
+138|obsidian.md|local-first markdown knowledge base
+139|cryptpad.fr|encrypted google-docs alternative
+140|todoist.com|polished cross-platform task manager
+141|trello.com|kanban boards for anything
+142|airtable.com|spreadsheet-database hybrid
+143|logseq.com|local-first open-source outliner
+144|workflowy.com|infinite outliner for organizing thoughts
+145|when2meet.com|dead-simple availability polls
+146|doodle.com|meeting-time polls with calendar integration
+147|libreoffice.org|free open-source office suite
+148|temp-mail.org|one-click temporary email
+149|10minutemail.com|instant temporary email
+150|privnote.com|send self-destructing messages
+151|file.io|share auto-deleting files
+152|accountkiller.com|delete yourself from any website
+153|simplelogin.io|free email aliases
+154|crypt.ee|encrypted notes and photos
+155|haveibeenpwned.com|check if you've been hacked
+156|virustotal.com|scan any file for malware
+157|urlvoid.com|check if a URL is sketchy
+158|whoer.net|see what sites see about you
+159|proton.me|encrypted email, calendar, drive, VPN
+160|tutanota.com|encrypted email with encrypted subject lines
+161|signal.org|end-to-end encrypted messenger
+162|bitwarden.com|open-source password manager
+163|keepassxc.org|offline open-source password manager
+164|protonvpn.com|free unlimited VPN tier
+165|duckduckgo.com|privacy-first search engine
+166|startpage.com|Google results delivered privately
+167|privacyguides.org|nonprofit's guide to privacy tools
+168|2fa.directory|which services support 2FA and how
+169|wolframalpha.com|instantly solve any math problem
+170|alternativeto.net|find free app alternatives
+171|downdetector.com|check if any website is down
+172|flightradar24.com|real-time tracking for any flight
+173|camelcamelcamel.com|track amazon price history
+174|thereviewindex.com|analyzes Amazon reviews for fakes
+175|fast.com|check internet speed
+176|speedtest.net|bandwidth and latency check
+177|wetransfer.com|send files up to 3GB free
+178|xe.com|clean currency conversion
+179|timeanddate.com|meeting planner across timezones
+180|taxifarefinder.com|estimate cab fare anywhere
+181|windy.com|stunning interactive weather visualization
+182|openstreetmap.org|free open maps (Wikipedia for maps)
+183|what3words.com|every 3m² on Earth has a 3-word address
+184|omnicalculator.com|3000+ specialized calculators
+185|calculator.net|comprehensive free calculators
+186|rome2rio.com|how to get anywhere on Earth
+187|worldtimebuddy.com|timezone converter and meeting planner
+188|wttr.in|weather in your terminal
+189|portfoliovisualizer.com|free investment portfolio backtesting
+190|trends.google.com|real-time search trend data
+191|hemingwayapp.com|make your writing clearer
+192|languagetool.org|free grammar checker
+193|deepl.com|translation that beats google translate
+194|quillbot.com|paraphrase and summarize (free tier)
+195|perplexity.ai|AI search with sources
+196|claude.ai|Anthropic's AI assistant
+197|you.com|AI search and writing
+198|rytr.me|free AI writing (small tier)
+199|grammarly.com|AI grammar checker with browser extension
+200|notebooklm.google.com|upload sources, get an AI research assistant
