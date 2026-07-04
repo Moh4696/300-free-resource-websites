@@ -1,6 +1,13 @@
-# Audit — "100 Free Resource Websites That Should Be Illegal"
+# Audit — "200 Free Resource Websites That Should Be Illegal"
 
-Verified 2026-05-29. Method: DNS resolution + HTTP request following redirects (curl, Safari user-agent, 25s timeout, 2 retries). Sites returning `401`/`403` to curl were checked against known state — these are bot-protection responses (Cloudflare / within.website), **not** outages; the sites are live in a normal browser. Anything genuinely broken was re-verified manually.
+Two-part audit covering all 200 entries.
+
+- **Part 1 (original 100):** verified 2026-05-29. Detailed table below.
+- **Part 2 (100 additions, entries #101–200 in the v2 numbering — see [urls.txt](urls.txt)):** curated 2026-07-04; automated verification **pending** (see Part 2 section below).
+
+Method (Part 1): DNS resolution + HTTP request following redirects (curl, Safari user-agent, 25s timeout, 2 retries). Sites returning `401`/`403` to curl were checked against known state — these are bot-protection responses (Cloudflare / within.website), **not** outages; the sites are live in a normal browser. Anything genuinely broken was re-verified manually.
+
+> **Note on entry numbers below.** The Part 1 table below uses the original 1–100 numbering (the numbering that existed at the time of the 2026-05-29 audit). In v2 those items were regrouped by category and renumbered — see [urls.txt](urls.txt) and [README.md](README.md) for the current 1–200 numbering. The mapping is straightforward from the domain names in the table.
 
 ## Summary
 
@@ -157,3 +164,177 @@ Already flagged in the source list — keep or cut based on your risk tolerance:
 ## Freemium caveat
 
 Many entries are freemium rather than fully free (e.g. #12, #26, #30, #37, #38, #43, #44, #45, #71, #73, #80, #91, #92, #93, #97, #100). All have a genuine free tier, so the "free" claim holds, but if the post implies *fully* free, consider a qualifier.
+
+---
+
+# Part 2 — v2 additions (100 new tools)
+
+Curated 2026-07-04. These are the 100 tools added to bring the list from 100 → 200. Numbering here refers to the **v2 numbering** used in [README.md](README.md) and [urls.txt](urls.txt) (entries 1–200 grouped by category).
+
+## Verification status
+
+Automated verification was **skipped for the additions** in this update: the environment where this expansion was drafted has no `host` binary and outbound HTTPS is blocked by a proxy, so [check.sh](check.sh) can't run against these URLs from here.
+
+To verify locally:
+```
+bash check.sh              # full run over all 200 (regenerates results.tsv)
+bash scripts/check_new.sh  # just the 100 additions (lines 101–200 of urls.txt), writes results_new.tsv
+```
+
+The additions are widely-known tools I have high confidence in as of 2026-07-04, but they have not been machine-checked from this environment.
+
+## The 100 additions, by section
+
+### Media, Streaming & Audio (10 additions)
+| v2 # | URL | Category note |
+|---|---|---|
+| 13 | kapwing.com | Freemium browser video editor |
+| 14 | veed.io | Freemium browser video editor |
+| 15 | descript.com | Freemium — free monthly minutes |
+| 16 | freesound.org | Free, CC-licensed |
+| 17 | musopen.org | Free public-domain music |
+| 18 | freemusicarchive.org | Free CC music (check per-track license) |
+| 19 | incompetech.com | Free with attribution |
+| 20 | ezgif.com | Free browser GIF/video tools |
+| 21 | loom.com | Freemium screen recorder |
+| 22 | otter.ai | Freemium transcription |
+
+### Image, Photo & Design Tools (10 additions)
+| v2 # | URL | Category note |
+|---|---|---|
+| 31 | canva.com | Freemium (generous) |
+| 32 | figma.com | Free tier |
+| 33 | pixlr.com | Free browser editor |
+| 34 | gimp.org | Free / open-source (desktop) |
+| 35 | inkscape.org | Free / open-source (desktop) |
+| 36 | krita.org | Free / open-source (desktop) |
+| 37 | app.diagrams.net | Free (formerly draw.io) |
+| 38 | mermaid.live | Free |
+| 39 | colorhunt.co | Free |
+| 40 | realtimecolors.com | Free |
+
+### Fonts, Icons & Illustrations (8 additions in new category)
+| v2 # | URL | Category note |
+|---|---|---|
+| 44 | fontshare.com | Free professional fonts |
+| 45 | fonts.google.com | Free open-source fonts |
+| 46 | flaticon.com | Free with attribution |
+| 47 | svgrepo.com | 500K+ free SVGs |
+| 48 | haikei.app | Free SVG generator |
+| 49 | humaaans.com | Free illustrations |
+| 50 | blush.design | Free community plan |
+| 51 | open-doodles.com | Free open-source illustrations |
+
+### Free Stock Photos & Video (4 additions)
+| v2 # | URL | Category note |
+|---|---|---|
+| 55 | stocksnap.io | CC0 stock photos |
+| 56 | kaboompics.com | Free stock photography |
+| 57 | coverr.co | Free stock video |
+| 58 | freepik.com | Freemium (attribution on free plan) |
+
+### Free Books & Libraries (3 additions)
+| v2 # | URL | Category note |
+|---|---|---|
+| 66 | openlibrary.org | Free (Internet Archive) |
+| 67 | openstax.org | Free peer-reviewed college textbooks |
+| 68 | goalkicker.com | Free programming books |
+
+### Free Courses & Learning (12 additions)
+| v2 # | URL | Category note |
+|---|---|---|
+| 79 | ocw.mit.edu | Free |
+| 80 | classcentral.com | Free MOOC aggregator |
+| 81 | codecademy.com | Freemium |
+| 82 | exercism.org | Free |
+| 83 | leetcode.com | Freemium |
+| 84 | codewars.com | Free |
+| 85 | javascript.info | Free |
+| 86 | eloquentjavascript.net | Free |
+| 87 | learngitbranching.js.org | Free |
+| 88 | roadmap.sh | Free |
+| 89 | fullstackopen.com | Free |
+| 90 | devhints.io | Free |
+
+### Research & Academic (4 additions)
+| v2 # | URL | Category note |
+|---|---|---|
+| 98 | arxiv.org | Free |
+| 99 | biorxiv.org | Free |
+| 100 | doaj.org | Free open access journals |
+| 101 | openreview.net | Free |
+
+### Developer Tools (19 additions)
+| v2 # | URL | Category note |
+|---|---|---|
+| 115 | codesandbox.io | Freemium |
+| 116 | stackblitz.com | Freemium |
+| 117 | codepen.io | Freemium |
+| 118 | replit.com | Freemium |
+| 119 | jsfiddle.net | Free |
+| 120 | postman.com | Freemium |
+| 121 | webhook.site | Free |
+| 122 | picsum.photos | Free |
+| 123 | randomuser.me | Free |
+| 124 | mockaroo.com | Freemium |
+| 125 | readme.so | Free |
+| 126 | dbdiagram.io | Free tier |
+| 127 | jsonplaceholder.typicode.com | Free |
+| 128 | httpbin.org | Free |
+| 129 | gitignore.io | Free (redirects to toptal.com/developers/gitignore, the maintained mirror) |
+| 130 | 30secondsofcode.org | Free |
+| 131 | snyk.io | Freemium |
+| 132 | codeium.com | Free for individuals |
+| 133 | wakatime.com | Freemium |
+
+### Whiteboards, Notes & Productivity (8 additions)
+| v2 # | URL | Category note |
+|---|---|---|
+| 140 | todoist.com | Freemium |
+| 141 | trello.com | Freemium |
+| 142 | airtable.com | Freemium |
+| 143 | logseq.com | Free / open-source |
+| 144 | workflowy.com | Freemium |
+| 145 | when2meet.com | Free |
+| 146 | doodle.com | Freemium |
+| 147 | libreoffice.org | Free / open-source (desktop) |
+
+### Privacy & Security (10 additions)
+| v2 # | URL | Category note |
+|---|---|---|
+| 159 | proton.me | Freemium |
+| 160 | tutanota.com | Freemium |
+| 161 | signal.org | Free (nonprofit) |
+| 162 | bitwarden.com | Free tier |
+| 163 | keepassxc.org | Free / open-source |
+| 164 | protonvpn.com | Freemium (free tier is unlimited bandwidth) |
+| 165 | duckduckgo.com | Free |
+| 166 | startpage.com | Free |
+| 167 | privacyguides.org | Free |
+| 168 | 2fa.directory | Free |
+
+### Everyday Utilities & Checkers (10 additions)
+| v2 # | URL | Category note |
+|---|---|---|
+| 181 | windy.com | Free tier |
+| 182 | openstreetmap.org | Free |
+| 183 | what3words.com | Free |
+| 184 | omnicalculator.com | Free |
+| 185 | calculator.net | Free |
+| 186 | rome2rio.com | Free |
+| 187 | worldtimebuddy.com | Free |
+| 188 | wttr.in | Free |
+| 189 | portfoliovisualizer.com | Free |
+| 190 | trends.google.com | Free |
+
+### Writing & AI Assistants (2 additions)
+| v2 # | URL | Category note |
+|---|---|---|
+| 199 | grammarly.com | Freemium |
+| 200 | notebooklm.google.com | Free |
+
+## Next steps for the v2 additions
+
+1. Run `bash scripts/check_new.sh` (or `bash check.sh` for all 200) on a machine with normal DNS + outbound HTTPS to produce a fresh Part 2 verification table.
+2. Anything that comes back non-`200`/`403` should be spot-checked in a real browser — Cloudflare bot-protection routinely serves `403` to curl, and those are not outages.
+3. If any additions turn out to be dead, replace them following the same pattern used for Part 1's action list.
