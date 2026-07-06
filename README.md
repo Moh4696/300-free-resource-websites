@@ -2,9 +2,9 @@
 
 A curated list of 300 genuinely useful free tools, organized by category. Every link below has been checked and points to the real, authentic site. Honest one-line reviews included — freemium tools and legally grey sites are flagged so you know exactly what you're getting.
 
-### 🔍 Search all 300 tools
+### 🔍 Browse & search all 300 tools
 
-**→ [Open the live search page](https://moh4696.github.io/300-free-resource-websites/)** — type a tool, task or category (e.g. "pdf", "icons", "chess") and it filters instantly.
+**→ [Open the visual gallery](https://moh4696.github.io/300-free-resource-websites/)** — a searchable, screenshot gallery with a category sidebar. Type a tool, task or category (e.g. "pdf", "icons", "chess") and it filters instantly.
 
 Prefer GitHub? Jump to a category, or press <kbd>Ctrl/⌘</kbd>+<kbd>F</kbd> to find a word on this page.
 
