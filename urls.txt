@@ -15,386 +15,286 @@
 15|freesound.org|CC sound effects library
 16|incompetech.com|royalty-free music
 17|vocalremover.org|AI vocal/instrumental splitter
-18|photopea.com|free photoshop in your browser
-19|remove.bg|one-click background removal
-20|cleanup.pictures|erase objects from photos
-21|unscreen.com|free video background removal
-22|squoosh.app|free compression for any image
-23|tinypng.com|image compression that just works
-24|tineye.com|reverse image search
-25|undraw.co|open-source illustrations
-26|heroicons.com|free SVG icons
-27|lucide.dev|open-source icon set
-28|coolors.co|color palette generator
-29|canva.com|drag-and-drop design tool
-30|figma.com|UI design tool
-31|gimp.org|open-source photoshop alternative
-32|inkscape.org|open-source vector editor
-33|upscayl.org|open-source AI image upscaler
-34|ezgif.com|GIF editing toolkit
-35|iloveimg.com|batch image tools
-36|svgrepo.com|free SVG vectors
-37|haikei.app|SVG background generator
-38|colorhunt.co|curated color palettes
-39|fonts.google.com|free open-source fonts
-40|fontshare.com|free professional fonts
-41|fontsquirrel.com|commercial-use free fonts
-42|dafont.com|free display fonts
-43|unsplash.com|free high-res stock photos
-44|pexels.com|free stock photos and videos
-45|pixabay.com|free stock images, vectors, music
-46|coverr.co|free stock video
-47|mixkit.co|free video, music, SFX
-48|videvo.net|stock video library
-49|openverse.org|CC media search
-50|tinywow.com|100+ free file tools
-51|smallpdf.com|PDF toolkit
-52|ilovepdf.com|PDF merge/split/compress
-53|pdf24.org|full free PDF toolkit
-54|sejda.com|browser PDF editor
-55|libreoffice.org|free office suite
-56|pdfgear.com|free PDF editor
-57|dillinger.io|markdown editor
-58|pandoc.org|universal document converter
-59|gutenberg.org|public-domain classics
-60|standardebooks.org|beautifully formatted free books
-61|pdfdrive.com|free PDF book search
-62|libgen.li|free textbooks (grey)
-63|annas-archive.gs|book search engine (grey)
-64|openlibrary.org|borrow digitized books
-65|librivox.org|free public-domain audiobooks
-66|wikisource.org|free source texts
-67|doabooks.org|open-access academic books
-68|openculture.com|free courses aggregator
-69|coursera.org|audit university courses
-70|edx.org|free MIT/Harvard courses
-71|khanacademy.org|free K-12 learning
-72|freecodecamp.org|free dev curriculum
-73|theodinproject.com|free full-stack path
-74|cs50.harvard.edu|Harvard CS50
-75|ocw.mit.edu|MIT OpenCourseWare
-76|oyc.yale.edu|Open Yale Courses
-77|ted.com|free expert talks
-78|duolingo.com|gamified language learning
-79|musictheory.net|interactive music theory
-80|lichess.org|free chess platform
-81|roadmap.sh|developer learning roadmaps
-82|exercism.org|coding practice with mentoring
-83|sqlbolt.com|interactive SQL lessons
-84|scholar.google.com|academic search
-85|semanticscholar.org|AI academic search
-86|connectedpapers.com|paper relationship graphs
-87|researchrabbit.ai|paper discovery
-88|elicit.com|AI research assistant
-89|consensus.app|paper-backed answers
-90|scispace.com|explain dense papers
-91|sci-hub.al|paywalled papers (grey)
-92|arxiv.org|research preprints
-93|pubmed.ncbi.nlm.nih.gov|biomedical literature index
-94|core.ac.uk|open-access paper aggregator
-95|zotero.org|free reference manager
-96|ourworldindata.org|global data charts
-97|kaggle.com|free datasets and ML courses
-98|unpaywall.org|legal free paper versions
-99|regex101.com|regex tester
-100|explainshell.com|explain shell commands
-101|crontab.guru|cron expression decoder
-102|caniuse.com|browser support tables
-103|devdocs.io|all dev docs
-104|jsonformatter.org|JSON formatter
-105|codebeautify.org|code formatter
-106|transform.tools|data format converter
-107|carbon.now.sh|code screenshots
-108|www.ray.so|code screenshots
-109|shields.io|README badges
-110|phind.com|dev AI search
-111|codepen.io|front-end playground
-112|stackblitz.com|browser dev environment
-113|hoppscotch.io|open-source API client
-114|dbdiagram.io|database schema designer
-115|readme.so|README builder
-116|choosealicense.com|license picker
-117|toptal.com/developers/gitignore|gitignore generator
-118|pagespeed.web.dev|site performance audit
-119|dnschecker.org|DNS propagation check
-120|ipinfo.io|IP lookup
-121|vercel.com|free front-end hosting
-122|netlify.com|free static hosting
-123|pages.cloudflare.com|free unlimited-bandwidth hosting
-124|education.github.com/pack|free student dev tools
-125|excalidraw.com|hand-drawn diagrams
-126|tldraw.com|infinite whiteboard
-127|miro.com|collaborative whiteboard
-128|notion.so|notes and databases
-129|obsidian.md|markdown knowledge base
-130|cryptpad.fr|encrypted docs
-131|app.diagrams.net|free diagramming (draw.io)
-132|mermaid.live|text-to-diagram
-133|simplenote.com|free synced notes
-134|pomofocus.io|pomodoro timer
-135|clockify.me|free time tracking
-136|when2meet.com|group scheduling
-137|temp-mail.org|disposable email
-138|10minutemail.com|self-destructing email
-139|privnote.com|self-destructing notes
-140|file.io|self-destructing file share
-141|accountkiller.com|delete any account
-142|simplelogin.io|email aliases
-143|crypt.ee|encrypted notes/photos
-144|haveibeenpwned.com|breach checker
-145|virustotal.com|file/URL scanner
-146|urlvoid.com|link reputation check
-147|whoer.net|browser leak test
-148|bitwarden.com|free password manager
-149|proton.me|encrypted email suite
-150|signal.org|private messaging
-151|privacyguides.org|privacy tool recommendations
-152|tosdr.org|terms-of-service grades
-153|2fa.directory|2FA support directory
-154|coveryourtracks.eff.org|browser fingerprint test
-155|ninite.com|clean bulk app installer
-156|wolframalpha.com|computational engine
-157|alternativeto.net|find app alternatives
-158|downdetector.com|service outage check
-159|flightradar24.com|live flight tracking
-160|camelcamelcamel.com|Amazon price history
-161|thereviewindex.com|review analysis
-162|fast.com|speed test
-163|speedtest.net|bandwidth test
-164|wetransfer.com|large file transfer
-165|xe.com|currency conversion
-166|timeanddate.com|time zones and planning
-167|taxifarefinder.com|cab fare estimates
-168|omnicalculator.com|3000+ calculators
-169|windy.com|interactive weather maps
-170|earth.nullschool.net|live global wind map
-171|openstreetmap.org|free editable world map
-172|keepa.com|Amazon price tracker
-173|pairdrop.net|browser AirDrop
-174|manualslib.com|free product manuals
-175|ifixit.com|free repair guides
-176|neal.fun|interactive explorables
-177|hemingwayapp.com|readability checker
-178|languagetool.org|grammar checker
-179|deepl.com|translation
-180|quillbot.com|paraphrasing
-181|perplexity.ai|AI search with sources
-182|claude.ai|AI assistant
-183|you.com|AI search and writing
-184|rytr.me|AI writing assistant
-185|chatgpt.com|OpenAI assistant
-186|gemini.google.com|Google AI assistant
-187|powerthesaurus.org|crowdsourced thesaurus
-188|etymonline.com|word origins
-189|rhymezone.com|rhyme finder
-190|ttsmaker.com|free text-to-speech
-191|otter.ai|meeting transcription
-192|flowcv.com|free resume builder
-193|rxresu.me|open-source resume builder
-194|levels.fyi|tech salary data
-195|layoffs.fyi|tech layoff tracker
-196|remoteok.com|remote job board
-197|musclewiki.com|exercise guides by muscle
-198|darebee.com|free workout programs
-199|examine.com|supplement research
-200|cronometer.com|nutrition tracking
-201|pluto.tv|free legal live TV and movies
-202|crackle.com|free ad-supported movies
-203|plex.tv|media server plus free streaming
-204|soundcloud.com|free music streaming and discovery
-205|bandcamp.com|discover and stream artist music
-206|ccmixter.org|Creative Commons remix music
-207|bensound.com|royalty-free background music
-208|uppbeat.io|free music for creators
-209|chosic.com|free music and playlist tools
-210|zapsplat.com|free sound effects library
-211|fesliyanstudios.com|free background music
-212|sound-effects.bbcrewind.co.uk|BBC sound effects archive
-213|freemusicarchive.org|curated free music library
-214|tunemymusic.com|transfer playlists between services
-215|simpleicons.org|brand and logo SVG icons
-216|iconify.design|unified icon framework
-217|tabler.io|free MIT SVG icons
-218|iconoir.com|open-source icon library
-219|phosphoricons.com|flexible icon family
-220|remixicon.com|neutral open-source icons
-221|feathericons.com|simple clean icons
-222|css.gg|pure CSS icon set
-223|flaticon.com|huge icon library
-224|thenounproject.com|icons for everything
-225|icon-icons.com|searchable icon archive
-226|streamlinehq.com|massive icon and illustration set
-227|uiverse.io|free open-source UI elements
-228|svgbackgrounds.com|customizable SVG backgrounds
-229|heropatterns.com|SVG background patterns
-230|pattern.monster|SVG pattern generator
-231|getwaves.io|SVG wave generator
-232|blobmaker.app|organic SVG shape generator
-233|shapedivider.app|SVG section dividers
-234|fffuel.co|SVG generators collection
-235|cssgradient.io|CSS gradient generator
-236|uigradients.com|ready-made gradients
-237|realtimecolors.com|preview palettes on real UI
-238|webaim.org|color contrast checker
-239|opendoodles.com|free sketchy illustrations
-240|humaaans.com|mix-and-match people illustrations
-241|openpeeps.com|hand-drawn illustration library
-242|drawkit.com|free vector illustrations
-243|absurd.design|surreal free illustrations
-244|iradesign.io|customizable illustrations
-245|storyset.com|animated free illustrations
-246|blush.design|customizable illustrations
-247|manypixels.co|free illustration gallery
-248|burst.shopify.com|free stock photos
-249|reshot.com|free stock photos and icons
-250|kaboompics.com|free lifestyle stock photos
-251|gratisography.com|quirky free stock photos
-252|picjumbo.com|free stock photos
-253|isorepublic.com|free photos and video
-254|lifeofpix.com|high-res free photos
-255|stocksnap.io|free stock photo search
-256|freenaturestock.com|free nature photos
-257|nappy.co|photos of Black and Brown people
-258|negativespace.co|free high-res photos
-259|foodiesfeed.com|free food photography
-260|publicdomainpictures.net|public-domain images
-261|commons.wikimedia.org|free media repository
-262|images.nasa.gov|NASA image and video library
-263|fontlibrary.org|free open-license fonts
-264|velvetyne.fr|libre experimental fonts
-265|theleagueofmoveabletype.com|open-source fonts
-266|1001fonts.com|free font archive
-267|befonts.com|free display fonts
-268|uncut.wtf|contemporary free typefaces
-269|fontpair.co|Google Font pairings
-270|typewolf.com|typography inspiration
-271|wordmark.it|preview text in all your fonts
-272|onlyoffice.com|free office suite
-273|pdfescape.com|free online PDF editor
-274|docdroid.net|upload and share documents
-275|cloudconvert.com|convert any file format
-276|freeconvert.com|free file converter
-277|convertio.co|online file conversion
-278|zamzar.com|file conversion service
-279|stackedit.io|in-browser markdown editor
-280|hackmd.io|collaborative markdown docs
-281|diffchecker.com|compare text and files
-282|it-tools.tech|huge developer toolbox
-283|10015.io|all-in-one online tools
-284|omatsuri.app|browser productivity tools
-285|gchq.github.io|CyberChef data operations
-286|jwt.io|decode and verify JWTs
-287|jsonplaceholder.typicode.com|fake REST API for testing
-288|reqres.in|hosted REST API for testing
-289|webhook.site|inspect webhooks and requests
-290|httpbin.org|HTTP request testing service
-291|mockaroo.com|generate realistic test data
-292|godbolt.org|compiler explorer
-293|jsfiddle.net|front-end code playground
-294|codesandbox.io|instant web dev sandboxes
-295|onecompiler.com|run code in any language
-296|pythontutor.com|visualize code execution
-297|devhints.io|developer cheatsheets
-298|tldr.sh|simplified man pages
-299|ohshitgit.com|fix git mistakes
-300|learngitbranching.js.org|interactive git tutorial
-301|realfavicongenerator.net|generate favicons
-302|metatags.io|preview and generate meta tags
-303|bundlephobia.com|check npm package size
-304|npmtrends.com|compare npm packages
-305|publicapis.dev|directory of free APIs
-306|keycode.info|JavaScript key codes
-307|animista.net|CSS animation generator
-308|easings.net|CSS easing reference
-309|cubic-bezier.com|custom easing curves
-310|neumorphism.io|soft-UI shadow generator
-311|dicebear.com|generate avatars
-312|tableconvert.com|convert tables between formats
-313|convertcase.net|change text case
-314|responsively.app|responsive design tester
-315|w3schools.com|web development tutorials
-316|geeksforgeeks.org|CS tutorials and practice
-317|tutorialspoint.com|tutorials on everything
-318|sololearn.com|learn to code on mobile
-319|codecademy.com|interactive coding lessons
-320|scrimba.com|interactive coding screencasts
-321|frontendmentor.io|real front-end challenges
-322|codingame.com|learn coding through games
-323|codewars.com|coding kata challenges
-324|leetcode.com|coding interview prep
-325|hackerrank.com|coding challenges and prep
-326|projecteuler.net|math and programming problems
-327|edabit.com|bite-size coding challenges
-328|sqlzoo.net|interactive SQL practice
-329|pgexercises.com|PostgreSQL exercises
-330|adventofcode.com|annual coding puzzles
-331|openstax.org|free peer-reviewed textbooks
-332|saylor.org|free college-level courses
-333|oercommons.org|open educational resources
-334|wikibooks.org|free open-content textbooks
-335|classcentral.com|search free online courses
-336|fullstackopen.com|free React and Node course
-337|javascript.info|the modern JavaScript tutorial
-338|eloquentjavascript.net|free JavaScript book
-339|automatetheboringstuff.com|free Python book
-340|learnxinyminutes.com|quick language syntax guides
-341|realpython.com|Python tutorials
-342|boot.dev|backend development courses
-343|codedex.io|gamified coding lessons
-344|brilliant.org|interactive STEM learning
-345|quizlet.com|flashcards and study tools
-346|apps.ankiweb.net|spaced-repetition flashcards
-347|datasetsearch.research.google.com|search open datasets
-348|data.gov|US government open data
-349|data.worldbank.org|global development data
-350|gapminder.org|global development statistics
-351|base-search.net|academic search engine
-352|doaj.org|directory of open-access journals
-353|biorxiv.org|biology preprints
-354|plos.org|open-access science journals
-355|paperswithcode.com|ML papers with code
-356|huggingface.co|open AI models and datasets
-357|fred.stlouisfed.org|US economic data
-358|raindrop.io|bookmark manager
-359|todoist.com|task manager
-360|trello.com|kanban project boards
-361|joplinapp.org|open-source encrypted notes
-362|standardnotes.com|encrypted notes app
-363|logseq.com|local-first outliner
-364|anytype.io|local-first knowledge base
-365|cal.com|open-source scheduling
-366|toggl.com|time tracking
-367|instapaper.com|save articles to read later
-368|keepassxc.org|offline password manager
-369|cryptomator.org|encrypt cloud files
-370|veracrypt.fr|disk encryption
-371|torproject.org|anonymous browsing
-372|browserleaks.com|what your browser reveals
-373|dnsleaktest.com|check for DNS leaks
-374|ssllabs.com|SSL server test
-375|securityheaders.com|scan site security headers
-376|mxtoolbox.com|DNS and email diagnostics
-377|urlscan.io|safely scan any website
-378|shodan.io|search internet-connected devices
-379|abuseipdb.com|check malicious IP addresses
-380|amiunique.org|browser fingerprint test
-381|desmos.com|online graphing calculator
-382|geogebra.org|interactive math tools
-383|rapidtables.com|reference tables and converters
-384|worldtimebuddy.com|compare time zones
-385|wttr.in|weather in your terminal
-386|thetruesize.com|compare true country sizes
-387|rome2rio.com|how to get anywhere
-388|seatguru.com|airplane seat maps
-389|flightconnections.com|airline route maps
-390|what3words.com|address any 3m square
-391|goqr.me|free QR code generator
-392|wormhole.app|encrypted file transfer
-393|chat.mistral.ai|free AI assistant
-394|copilot.microsoft.com|Microsoft AI assistant
-395|wordcounter.net|word and character count
-396|onelook.com|reverse dictionary and thesaurus
-397|reverso.net|translation with context
-398|forvo.com|word pronunciations
-399|medlineplus.gov|trusted health information
-400|insighttimer.com|free guided meditation
+18|pluto.tv|free legal live TV and movies
+19|soundcloud.com|free music streaming and discovery
+20|bensound.com|royalty-free background music
+21|uppbeat.io|free music for creators
+22|sound-effects.bbcrewind.co.uk|BBC sound effects archive
+23|freemusicarchive.org|curated free music library
+24|photopea.com|free photoshop in your browser
+25|remove.bg|one-click background removal
+26|cleanup.pictures|erase objects from photos
+27|unscreen.com|free video background removal
+28|squoosh.app|free compression for any image
+29|tinypng.com|image compression that just works
+30|tineye.com|reverse image search
+31|undraw.co|open-source illustrations
+32|heroicons.com|free SVG icons
+33|lucide.dev|open-source icon set
+34|coolors.co|color palette generator
+35|canva.com|drag-and-drop design tool
+36|figma.com|UI design tool
+37|gimp.org|open-source photoshop alternative
+38|inkscape.org|open-source vector editor
+39|upscayl.org|open-source AI image upscaler
+40|ezgif.com|GIF editing toolkit
+41|svgrepo.com|free SVG vectors
+42|simpleicons.org|brand and logo SVG icons
+43|iconify.design|unified icon framework
+44|tabler.io|free MIT SVG icons
+45|phosphoricons.com|flexible icon family
+46|flaticon.com|huge icon library
+47|thenounproject.com|icons for everything
+48|streamlinehq.com|massive icon and illustration set
+49|uiverse.io|free open-source UI elements
+50|heropatterns.com|SVG background patterns
+51|shapedivider.app|SVG section dividers
+52|fffuel.co|SVG generators collection
+53|cssgradient.io|CSS gradient generator
+54|uigradients.com|ready-made gradients
+55|realtimecolors.com|preview palettes on real UI
+56|webaim.org|color contrast checker
+57|opendoodles.com|free sketchy illustrations
+58|humaaans.com|mix-and-match people illustrations
+59|openpeeps.com|hand-drawn illustration library
+60|drawkit.com|free vector illustrations
+61|storyset.com|animated free illustrations
+62|manypixels.co|free illustration gallery
+63|unsplash.com|free high-res stock photos
+64|pexels.com|free stock photos and videos
+65|pixabay.com|free stock images, vectors, music
+66|coverr.co|free stock video
+67|mixkit.co|free video, music, SFX
+68|videvo.net|stock video library
+69|openverse.org|CC media search
+70|burst.shopify.com|free stock photos
+71|kaboompics.com|free lifestyle stock photos
+72|gratisography.com|quirky free stock photos
+73|stocksnap.io|free stock photo search
+74|nappy.co|photos of Black and Brown people
+75|commons.wikimedia.org|free media repository
+76|images.nasa.gov|NASA image and video library
+77|fonts.google.com|free open-source fonts
+78|fontshare.com|free professional fonts
+79|fontsquirrel.com|commercial-use free fonts
+80|dafont.com|free display fonts
+81|fontlibrary.org|free open-license fonts
+82|velvetyne.fr|libre experimental fonts
+83|theleagueofmoveabletype.com|open-source fonts
+84|typewolf.com|typography inspiration
+85|wordmark.it|preview text in all your fonts
+86|tinywow.com|100+ free file tools
+87|smallpdf.com|PDF toolkit
+88|ilovepdf.com|PDF merge/split/compress
+89|pdf24.org|full free PDF toolkit
+90|sejda.com|browser PDF editor
+91|libreoffice.org|free office suite
+92|pdfgear.com|free PDF editor
+93|dillinger.io|markdown editor
+94|pandoc.org|universal document converter
+95|onlyoffice.com|free office suite
+96|cloudconvert.com|convert any file format
+97|stackedit.io|in-browser markdown editor
+98|hackmd.io|collaborative markdown docs
+99|diffchecker.com|compare text and files
+100|gutenberg.org|public-domain classics
+101|standardebooks.org|beautifully formatted free books
+102|pdfdrive.com|free PDF book search
+103|libgen.li|free textbooks (grey)
+104|annas-archive.gs|book search engine (grey)
+105|openlibrary.org|borrow digitized books
+106|librivox.org|free public-domain audiobooks
+107|wikisource.org|free source texts
+108|doabooks.org|open-access academic books
+109|openculture.com|free courses aggregator
+110|coursera.org|audit university courses
+111|edx.org|free MIT/Harvard courses
+112|khanacademy.org|free K-12 learning
+113|freecodecamp.org|free dev curriculum
+114|theodinproject.com|free full-stack path
+115|cs50.harvard.edu|Harvard CS50
+116|ocw.mit.edu|MIT OpenCourseWare
+117|oyc.yale.edu|Open Yale Courses
+118|ted.com|free expert talks
+119|duolingo.com|gamified language learning
+120|musictheory.net|interactive music theory
+121|lichess.org|free chess platform
+122|roadmap.sh|developer learning roadmaps
+123|exercism.org|coding practice with mentoring
+124|sqlbolt.com|interactive SQL lessons
+125|w3schools.com|web development tutorials
+126|geeksforgeeks.org|CS tutorials and practice
+127|scrimba.com|interactive coding screencasts
+128|frontendmentor.io|real front-end challenges
+129|leetcode.com|coding interview prep
+130|hackerrank.com|coding challenges and prep
+131|projecteuler.net|math and programming problems
+132|adventofcode.com|annual coding puzzles
+133|openstax.org|free peer-reviewed textbooks
+134|classcentral.com|search free online courses
+135|fullstackopen.com|free React and Node course
+136|javascript.info|the modern JavaScript tutorial
+137|eloquentjavascript.net|free JavaScript book
+138|automatetheboringstuff.com|free Python book
+139|realpython.com|Python tutorials
+140|codecademy.com|interactive coding lessons
+141|apps.ankiweb.net|spaced-repetition flashcards
+142|scholar.google.com|academic search
+143|semanticscholar.org|AI academic search
+144|connectedpapers.com|paper relationship graphs
+145|researchrabbit.ai|paper discovery
+146|elicit.com|AI research assistant
+147|consensus.app|paper-backed answers
+148|scispace.com|explain dense papers
+149|sci-hub.al|paywalled papers (grey)
+150|arxiv.org|research preprints
+151|pubmed.ncbi.nlm.nih.gov|biomedical literature index
+152|core.ac.uk|open-access paper aggregator
+153|zotero.org|free reference manager
+154|ourworldindata.org|global data charts
+155|kaggle.com|free datasets and ML courses
+156|unpaywall.org|legal free paper versions
+157|datasetsearch.research.google.com|search open datasets
+158|data.gov|US government open data
+159|huggingface.co|open AI models and datasets
+160|regex101.com|regex tester
+161|explainshell.com|explain shell commands
+162|crontab.guru|cron expression decoder
+163|caniuse.com|browser support tables
+164|devdocs.io|all dev docs
+165|codebeautify.org|code formatter
+166|transform.tools|data format converter
+167|carbon.now.sh|code screenshots
+168|www.ray.so|code screenshots
+169|shields.io|README badges
+170|phind.com|dev AI search
+171|codepen.io|front-end playground
+172|stackblitz.com|browser dev environment
+173|hoppscotch.io|open-source API client
+174|dbdiagram.io|database schema designer
+175|readme.so|README builder
+176|choosealicense.com|license picker
+177|toptal.com/developers/gitignore|gitignore generator
+178|pagespeed.web.dev|site performance audit
+179|dnschecker.org|DNS propagation check
+180|ipinfo.io|IP lookup
+181|it-tools.tech|huge developer toolbox
+182|gchq.github.io|CyberChef data operations
+183|jwt.io|decode and verify JWTs
+184|webhook.site|inspect webhooks and requests
+185|godbolt.org|compiler explorer
+186|jsfiddle.net|front-end code playground
+187|codesandbox.io|instant web dev sandboxes
+188|pythontutor.com|visualize code execution
+189|devhints.io|developer cheatsheets
+190|tldr.sh|simplified man pages
+191|ohshitgit.com|fix git mistakes
+192|learngitbranching.js.org|interactive git tutorial
+193|realfavicongenerator.net|generate favicons
+194|publicapis.dev|directory of free APIs
+195|animista.net|CSS animation generator
+196|easings.net|CSS easing reference
+197|dicebear.com|generate avatars
+198|tableconvert.com|convert tables between formats
+199|responsively.app|responsive design tester
+200|vercel.com|free front-end hosting
+201|netlify.com|free static hosting
+202|pages.cloudflare.com|free unlimited-bandwidth hosting
+203|education.github.com/pack|free student dev tools
+204|excalidraw.com|hand-drawn diagrams
+205|tldraw.com|infinite whiteboard
+206|miro.com|collaborative whiteboard
+207|notion.so|notes and databases
+208|obsidian.md|markdown knowledge base
+209|cryptpad.fr|encrypted docs
+210|app.diagrams.net|free diagramming (draw.io)
+211|mermaid.live|text-to-diagram
+212|simplenote.com|free synced notes
+213|pomofocus.io|pomodoro timer
+214|clockify.me|free time tracking
+215|when2meet.com|group scheduling
+216|raindrop.io|bookmark manager
+217|trello.com|kanban project boards
+218|joplinapp.org|open-source encrypted notes
+219|cal.com|open-source scheduling
+220|temp-mail.org|disposable email
+221|10minutemail.com|self-destructing email
+222|privnote.com|self-destructing notes
+223|file.io|self-destructing file share
+224|accountkiller.com|delete any account
+225|simplelogin.io|email aliases
+226|crypt.ee|encrypted notes/photos
+227|haveibeenpwned.com|breach checker
+228|virustotal.com|file/URL scanner
+229|whoer.net|browser leak test
+230|bitwarden.com|free password manager
+231|proton.me|encrypted email suite
+232|signal.org|private messaging
+233|privacyguides.org|privacy tool recommendations
+234|tosdr.org|terms-of-service grades
+235|2fa.directory|2FA support directory
+236|coveryourtracks.eff.org|browser fingerprint test
+237|ninite.com|clean bulk app installer
+238|keepassxc.org|offline password manager
+239|cryptomator.org|encrypt cloud files
+240|veracrypt.fr|disk encryption
+241|torproject.org|anonymous browsing
+242|ssllabs.com|SSL server test
+243|securityheaders.com|scan site security headers
+244|urlscan.io|safely scan any website
+245|shodan.io|search internet-connected devices
+246|wolframalpha.com|computational engine
+247|alternativeto.net|find app alternatives
+248|downdetector.com|service outage check
+249|flightradar24.com|live flight tracking
+250|camelcamelcamel.com|Amazon price history
+251|thereviewindex.com|review analysis
+252|fast.com|speed test
+253|speedtest.net|bandwidth test
+254|wetransfer.com|large file transfer
+255|xe.com|currency conversion
+256|timeanddate.com|time zones and planning
+257|taxifarefinder.com|cab fare estimates
+258|omnicalculator.com|3000+ calculators
+259|windy.com|interactive weather maps
+260|earth.nullschool.net|live global wind map
+261|openstreetmap.org|free editable world map
+262|keepa.com|Amazon price tracker
+263|pairdrop.net|browser AirDrop
+264|manualslib.com|free product manuals
+265|ifixit.com|free repair guides
+266|neal.fun|interactive explorables
+267|desmos.com|online graphing calculator
+268|geogebra.org|interactive math tools
+269|wttr.in|weather in your terminal
+270|thetruesize.com|compare true country sizes
+271|rome2rio.com|how to get anywhere
+272|what3words.com|address any 3m square
+273|wormhole.app|encrypted file transfer
+274|hemingwayapp.com|readability checker
+275|languagetool.org|grammar checker
+276|deepl.com|translation
+277|quillbot.com|paraphrasing
+278|perplexity.ai|AI search with sources
+279|claude.ai|AI assistant
+280|you.com|AI search and writing
+281|chatgpt.com|OpenAI assistant
+282|gemini.google.com|Google AI assistant
+283|chat.mistral.ai|free AI assistant
+284|copilot.microsoft.com|Microsoft AI assistant
+285|powerthesaurus.org|crowdsourced thesaurus
+286|etymonline.com|word origins
+287|rhymezone.com|rhyme finder
+288|ttsmaker.com|free text-to-speech
+289|otter.ai|meeting transcription
+290|forvo.com|word pronunciations
+291|flowcv.com|free resume builder
+292|rxresu.me|open-source resume builder
+293|levels.fyi|tech salary data
+294|layoffs.fyi|tech layoff tracker
+295|remoteok.com|remote job board
+296|musclewiki.com|exercise guides by muscle
+297|darebee.com|free workout programs
+298|examine.com|supplement research
+299|cronometer.com|nutrition tracking
+300|medlineplus.gov|trusted health information
