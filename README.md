@@ -376,17 +376,18 @@ Prefer GitHub? Jump to a category, or press <kbd>Ctrl/⌘</kbd>+<kbd>F</kbd> to 
 
 291. **[flowcv.com](https://flowcv.com/)** — Polished resume builder with genuinely free PDF export — no watermark tricks.
 292. **[rxresu.me](https://rxresu.me/)** — Reactive Resume: open-source resume builder. Completely free, self-hostable, no upsells.
-293. **[levels.fyi](https://www.levels.fyi/)** — Real, verified tech compensation data by company and level. Free to browse.
-294. **[layoffs.fyi](https://layoffs.fyi/)** — Live tracker of tech industry layoffs. Free and sobering.
-295. **[remoteok.com](https://remoteok.com/)** — One of the biggest remote job boards. Free to browse and apply.
+293. **[withresumeai.com](https://withresumeai.com/)** — Free ATS checker (3/day no account) + AI resume builder; live candidate leaderboard (paid placement/visibility, not pay-for-score). State of ATS 2026 covers 738 employers / 704 portal-verified.
+294. **[levels.fyi](https://www.levels.fyi/)** — Real, verified tech compensation data by company and level. Free to browse.
+295. **[layoffs.fyi](https://layoffs.fyi/)** — Live tracker of tech industry layoffs. Free and sobering.
+296. **[remoteok.com](https://remoteok.com/)** — One of the biggest remote job boards. Free to browse and apply.
 
 ## Health & Fitness
 
-296. **[musclewiki.com](https://musclewiki.com/)** — Click a muscle on a body map, get exercises with video form guides. Free.
-297. **[darebee.com](https://darebee.com/)** — Thousands of free, printable workout programs. Donation-run nonprofit, no ads.
-298. **[examine.com](https://examine.com/)** — Evidence-based summaries of supplement and nutrition research. Basics free; deep-dives paid.
-299. **[cronometer.com](https://cronometer.com/)** — Nutrition tracking with unusually accurate micronutrient data. Free tier is fully functional.
-300. **[medlineplus.gov](https://medlineplus.gov/)** — Trusted, ad-free health information from the US National Library of Medicine. Free.
+297. **[musclewiki.com](https://musclewiki.com/)** — Click a muscle on a body map, get exercises with video form guides. Free.
+298. **[darebee.com](https://darebee.com/)** — Thousands of free, printable workout programs. Donation-run nonprofit, no ads.
+299. **[examine.com](https://examine.com/)** — Evidence-based summaries of supplement and nutrition research. Basics free; deep-dives paid.
+300. **[cronometer.com](https://cronometer.com/)** — Nutrition tracking with unusually accurate micronutrient data. Free tier is fully functional.
+301. **[medlineplus.gov](https://medlineplus.gov/)** — Trusted, ad-free health information from the US National Library of Medicine. Free.
 
 ---
 
