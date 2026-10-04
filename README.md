@@ -147,246 +147,247 @@ Prefer GitHub? Jump to a category, or press <kbd>Ctrl/⌘</kbd>+<kbd>F</kbd> to 
 94. **[pandoc.org](https://pandoc.org/)** — Command-line converter between practically every document format that exists. Free, open-source.
 95. **[onlyoffice.com](https://www.onlyoffice.com/)** — A free, Microsoft-compatible office suite with strong document editing. Free for personal use.
 96. **[cloudconvert.com](https://cloudconvert.com/)** — Convert between 200+ file formats with fine-grained options. Generous free tier.
-97. **[stackedit.io](https://stackedit.io/)** — A powerful in-browser Markdown editor with sync and export. Free.
-98. **[hackmd.io](https://hackmd.io/)** — Real-time collaborative Markdown documents. Free tier for personal use.
-99. **[diffchecker.com](https://www.diffchecker.com/)** — Compare two blocks of text, files or images to spot differences. Free.
+97. **[fileontap.com](https://fileontap.com/)** — Free online file converter that runs in the browser and does not upload files. No signup.
+98. **[stackedit.io](https://stackedit.io/)** — A powerful in-browser Markdown editor with sync and export. Free.
+99. **[hackmd.io](https://hackmd.io/)** — Real-time collaborative Markdown documents. Free tier for personal use.
+100. **[diffchecker.com](https://www.diffchecker.com/)** — Compare two blocks of text, files or images to spot differences. Free.
 
 ## Free Books & Libraries
 
-100. **[gutenberg.org](https://gutenberg.org/)** — 70,000+ public-domain classics, free and legal. The original free ebook library.
-101. **[standardebooks.org](https://standardebooks.org/)** — Public-domain books, lovingly reformatted and typeset. Free and beautiful.
-102. **[pdfdrive.com](https://www.pdfdrive.com/)** — Massive free PDF book search. ⚠️ Mixed catalog includes copyrighted titles — legally grey.
-103. **[libgen.li](https://libgen.li/)** — Millions of free textbooks and papers. ⚠️ Piracy — legally grey in most countries.
-104. **[annas-archive.gs](https://annas-archive.gs/)** — Search engine for essentially every book ever digitized. ⚠️ Piracy — legally grey. (The old `.org` domain is dead; `.gs` is the current mirror.)
-105. **[openlibrary.org](https://openlibrary.org/)** — Borrow digitized books free from the Internet Archive's lending library. Legal and free.
-106. **[librivox.org](https://librivox.org/)** — Free public-domain audiobooks read by volunteers. Narration quality varies; the price doesn't.
-107. **[wikisource.org](https://wikisource.org/)** — Wikipedia's library of free source texts: speeches, historical documents, classic books.
-108. **[doabooks.org](https://www.doabooks.org/)** — Directory of 80,000+ peer-reviewed open-access academic books. Free.
+101. **[gutenberg.org](https://gutenberg.org/)** — 70,000+ public-domain classics, free and legal. The original free ebook library.
+102. **[standardebooks.org](https://standardebooks.org/)** — Public-domain books, lovingly reformatted and typeset. Free and beautiful.
+103. **[pdfdrive.com](https://www.pdfdrive.com/)** — Massive free PDF book search. ⚠️ Mixed catalog includes copyrighted titles — legally grey.
+104. **[libgen.li](https://libgen.li/)** — Millions of free textbooks and papers. ⚠️ Piracy — legally grey in most countries.
+105. **[annas-archive.gs](https://annas-archive.gs/)** — Search engine for essentially every book ever digitized. ⚠️ Piracy — legally grey. (The old `.org` domain is dead; `.gs` is the current mirror.)
+106. **[openlibrary.org](https://openlibrary.org/)** — Borrow digitized books free from the Internet Archive's lending library. Legal and free.
+107. **[librivox.org](https://librivox.org/)** — Free public-domain audiobooks read by volunteers. Narration quality varies; the price doesn't.
+108. **[wikisource.org](https://wikisource.org/)** — Wikipedia's library of free source texts: speeches, historical documents, classic books.
+109. **[doabooks.org](https://www.doabooks.org/)** — Directory of 80,000+ peer-reviewed open-access academic books. Free.
 
 ## Free Courses & Learning
 
-109. **[openculture.com](https://www.openculture.com/)** — Aggregates free university courses, audiobooks and films. A great jumping-off point.
-110. **[coursera.org](https://www.coursera.org/)** — Audit thousands of real university courses for free (you pay only for certificates).
-111. **[edx.org](https://www.edx.org/)** — Free courses from MIT, Harvard and more. Audit track is free; certs are paid.
-112. **[khanacademy.org](https://www.khanacademy.org/)** — Fully free K-12 through early-college subjects. Nonprofit, no upsell.
-113. **[freecodecamp.org](https://www.freecodecamp.org/)** — A complete, free developer curriculum with hands-on projects and certs. 100% free.
-114. **[theodinproject.com](https://www.theodinproject.com/)** — Free full-stack web dev path. Project-based and open-source.
-115. **[cs50.harvard.edu](https://cs50.harvard.edu/)** — Harvard's legendary intro-to-CS course, free to audit. One of the best courses anywhere.
-116. **[ocw.mit.edu](https://ocw.mit.edu/)** — MIT OpenCourseWare: real MIT lectures, notes and problem sets. Free, no signup.
-117. **[oyc.yale.edu](https://oyc.yale.edu/)** — Full Yale lecture courses, recorded and released free. The philosophy and psychology courses are legendary.
-118. **[ted.com](https://www.ted.com/)** — Thousands of expert talks, free. The archive runs far deeper than the viral hits.
-119. **[duolingo.com](https://www.duolingo.com/)** — Gamified language learning that actually sticks. Free with ads; Super removes them.
-120. **[musictheory.net](https://www.musictheory.net/)** — Interactive music theory lessons and exercises. Quietly one of the best free educational sites on the internet.
-121. **[lichess.org](https://lichess.org/)** — The best free chess site: play, puzzles, analysis, lessons. 100% free, open-source, no premium tier at all.
-122. **[roadmap.sh](https://roadmap.sh/)** — Community-maintained roadmaps for every developer career path. Free.
-123. **[exercism.org](https://exercism.org/)** — Coding practice in 65+ languages with free human mentoring. Nonprofit, fully free.
-124. **[sqlbolt.com](https://sqlbolt.com/)** — Learn SQL interactively in an afternoon. Simple, free, no signup.
-125. **[w3schools.com](https://www.w3schools.com/)** — The web's most-used beginner reference for HTML, CSS, JS and more. Free.
-126. **[geeksforgeeks.org](https://www.geeksforgeeks.org/)** — Vast library of CS tutorials, examples and interview prep. Free, ad-supported.
-127. **[scrimba.com](https://scrimba.com/)** — Interactive coding screencasts you can edit as you watch. Free courses available.
-128. **[frontendmentor.io](https://www.frontendmentor.io/)** — Practice front-end by building real designs from pro briefs. Free challenges.
-129. **[leetcode.com](https://leetcode.com/)** — The standard for coding-interview practice. Big free tier; premium unlocks more.
-130. **[hackerrank.com](https://www.hackerrank.com/)** — Coding challenges and skill certifications. Free.
-131. **[projecteuler.net](https://projecteuler.net/)** — Math-flavored programming problems that get seriously deep. Free.
-132. **[adventofcode.com](https://adventofcode.com/)** — A beloved annual set of programming puzzles, with a full back-catalog. Free.
-133. **[openstax.org](https://openstax.org/)** — Free, peer-reviewed college textbooks used by real universities. Truly free.
-134. **[classcentral.com](https://www.classcentral.com/)** — Search and compare 200,000+ free online courses in one place. Free.
-135. **[fullstackopen.com](https://fullstackopen.com/)** — University of Helsinki's excellent free modern React/Node course.
-136. **[javascript.info](https://javascript.info/)** — The clearest modern JavaScript tutorial on the web. Free.
-137. **[eloquentjavascript.net](https://eloquentjavascript.net/)** — A beloved free book that teaches JavaScript properly. Free online.
-138. **[automatetheboringstuff.com](https://automatetheboringstuff.com/)** — The famous free Python book for practical automation. Free online.
-139. **[realpython.com](https://realpython.com/)** — High-quality Python tutorials and guides. Lots free; membership unlocks more.
-140. **[codecademy.com](https://www.codecademy.com/)** — Interactive, in-browser coding lessons. Free tier covers the fundamentals.
-141. **[apps.ankiweb.net](https://apps.ankiweb.net/)** — Anki: the gold-standard spaced-repetition flashcard tool. Free (except iOS app).
+110. **[openculture.com](https://www.openculture.com/)** — Aggregates free university courses, audiobooks and films. A great jumping-off point.
+111. **[coursera.org](https://www.coursera.org/)** — Audit thousands of real university courses for free (you pay only for certificates).
+112. **[edx.org](https://www.edx.org/)** — Free courses from MIT, Harvard and more. Audit track is free; certs are paid.
+113. **[khanacademy.org](https://www.khanacademy.org/)** — Fully free K-12 through early-college subjects. Nonprofit, no upsell.
+114. **[freecodecamp.org](https://www.freecodecamp.org/)** — A complete, free developer curriculum with hands-on projects and certs. 100% free.
+115. **[theodinproject.com](https://www.theodinproject.com/)** — Free full-stack web dev path. Project-based and open-source.
+116. **[cs50.harvard.edu](https://cs50.harvard.edu/)** — Harvard's legendary intro-to-CS course, free to audit. One of the best courses anywhere.
+117. **[ocw.mit.edu](https://ocw.mit.edu/)** — MIT OpenCourseWare: real MIT lectures, notes and problem sets. Free, no signup.
+118. **[oyc.yale.edu](https://oyc.yale.edu/)** — Full Yale lecture courses, recorded and released free. The philosophy and psychology courses are legendary.
+119. **[ted.com](https://www.ted.com/)** — Thousands of expert talks, free. The archive runs far deeper than the viral hits.
+120. **[duolingo.com](https://www.duolingo.com/)** — Gamified language learning that actually sticks. Free with ads; Super removes them.
+121. **[musictheory.net](https://www.musictheory.net/)** — Interactive music theory lessons and exercises. Quietly one of the best free educational sites on the internet.
+122. **[lichess.org](https://lichess.org/)** — The best free chess site: play, puzzles, analysis, lessons. 100% free, open-source, no premium tier at all.
+123. **[roadmap.sh](https://roadmap.sh/)** — Community-maintained roadmaps for every developer career path. Free.
+124. **[exercism.org](https://exercism.org/)** — Coding practice in 65+ languages with free human mentoring. Nonprofit, fully free.
+125. **[sqlbolt.com](https://sqlbolt.com/)** — Learn SQL interactively in an afternoon. Simple, free, no signup.
+126. **[w3schools.com](https://www.w3schools.com/)** — The web's most-used beginner reference for HTML, CSS, JS and more. Free.
+127. **[geeksforgeeks.org](https://www.geeksforgeeks.org/)** — Vast library of CS tutorials, examples and interview prep. Free, ad-supported.
+128. **[scrimba.com](https://scrimba.com/)** — Interactive coding screencasts you can edit as you watch. Free courses available.
+129. **[frontendmentor.io](https://www.frontendmentor.io/)** — Practice front-end by building real designs from pro briefs. Free challenges.
+130. **[leetcode.com](https://leetcode.com/)** — The standard for coding-interview practice. Big free tier; premium unlocks more.
+131. **[hackerrank.com](https://www.hackerrank.com/)** — Coding challenges and skill certifications. Free.
+132. **[projecteuler.net](https://projecteuler.net/)** — Math-flavored programming problems that get seriously deep. Free.
+133. **[adventofcode.com](https://adventofcode.com/)** — A beloved annual set of programming puzzles, with a full back-catalog. Free.
+134. **[openstax.org](https://openstax.org/)** — Free, peer-reviewed college textbooks used by real universities. Truly free.
+135. **[classcentral.com](https://www.classcentral.com/)** — Search and compare 200,000+ free online courses in one place. Free.
+136. **[fullstackopen.com](https://fullstackopen.com/)** — University of Helsinki's excellent free modern React/Node course.
+137. **[javascript.info](https://javascript.info/)** — The clearest modern JavaScript tutorial on the web. Free.
+138. **[eloquentjavascript.net](https://eloquentjavascript.net/)** — A beloved free book that teaches JavaScript properly. Free online.
+139. **[automatetheboringstuff.com](https://automatetheboringstuff.com/)** — The famous free Python book for practical automation. Free online.
+140. **[realpython.com](https://realpython.com/)** — High-quality Python tutorials and guides. Lots free; membership unlocks more.
+141. **[codecademy.com](https://www.codecademy.com/)** — Interactive, in-browser coding lessons. Free tier covers the fundamentals.
+142. **[apps.ankiweb.net](https://apps.ankiweb.net/)** — Anki: the gold-standard spaced-repetition flashcard tool. Free (except iOS app).
 
 ## Research & Academic
 
-142. **[scholar.google.com](https://scholar.google.com/)** — The default free academic search engine. Finds papers, citations and PDFs.
-143. **[semanticscholar.org](https://www.semanticscholar.org/)** — AI-powered academic search with smart summaries. Free and ad-free.
-144. **[connectedpapers.com](https://www.connectedpapers.com/)** — Visualizes how papers relate to each other. Free tier limits graphs per month.
-145. **[researchrabbit.ai](https://www.researchrabbit.ai/)** — "Spotify for papers" — discover related work and build collections. Free.
-146. **[elicit.com](https://elicit.com/)** — AI research assistant that extracts findings across papers. Freemium (limited free credits).
-147. **[consensus.app](https://consensus.app/)** — Ask a question, get answers backed by scientific papers. Freemium.
-148. **[scispace.com](https://scispace.com/)** — Explains dense papers in plain language. Freemium.
-149. **[sci-hub.al](https://sci-hub.al/)** — Free access to paywalled research papers. ⚠️ Piracy — legally grey; mirror domains change often.
-150. **[arxiv.org](https://arxiv.org/)** — Preprints of cutting-edge research in physics, CS and math — before journals paywall them. Free.
-151. **[pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/)** — The definitive free index of biomedical research literature.
-152. **[core.ac.uk](https://core.ac.uk/)** — Aggregates 300M+ open-access papers from repositories worldwide. Free full-text search.
-153. **[zotero.org](https://www.zotero.org/)** — Free, open-source reference manager that collects, organizes and formats citations.
-154. **[ourworldindata.org](https://ourworldindata.org/)** — Rigorous, beautifully charted data on the world's biggest problems. Free and open.
-155. **[kaggle.com](https://www.kaggle.com/)** — Free datasets, notebooks, ML courses — and free GPU time. Remarkable that it's free.
-156. **[unpaywall.org](https://unpaywall.org/)** — Browser extension that finds legal, free versions of paywalled papers. Free.
-157. **[datasetsearch.research.google.com](https://datasetsearch.research.google.com/)** — Google's search engine dedicated to finding open datasets. Free.
-158. **[data.gov](https://data.gov/)** — The US government's open-data portal: 250,000+ datasets. Free.
-159. **[huggingface.co](https://huggingface.co/)** — The hub for open AI models, datasets and demos. Free to browse and use.
+143. **[scholar.google.com](https://scholar.google.com/)** — The default free academic search engine. Finds papers, citations and PDFs.
+144. **[semanticscholar.org](https://www.semanticscholar.org/)** — AI-powered academic search with smart summaries. Free and ad-free.
+145. **[connectedpapers.com](https://www.connectedpapers.com/)** — Visualizes how papers relate to each other. Free tier limits graphs per month.
+146. **[researchrabbit.ai](https://www.researchrabbit.ai/)** — "Spotify for papers" — discover related work and build collections. Free.
+147. **[elicit.com](https://elicit.com/)** — AI research assistant that extracts findings across papers. Freemium (limited free credits).
+148. **[consensus.app](https://consensus.app/)** — Ask a question, get answers backed by scientific papers. Freemium.
+149. **[scispace.com](https://scispace.com/)** — Explains dense papers in plain language. Freemium.
+150. **[sci-hub.al](https://sci-hub.al/)** — Free access to paywalled research papers. ⚠️ Piracy — legally grey; mirror domains change often.
+151. **[arxiv.org](https://arxiv.org/)** — Preprints of cutting-edge research in physics, CS and math — before journals paywall them. Free.
+152. **[pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/)** — The definitive free index of biomedical research literature.
+153. **[core.ac.uk](https://core.ac.uk/)** — Aggregates 300M+ open-access papers from repositories worldwide. Free full-text search.
+154. **[zotero.org](https://www.zotero.org/)** — Free, open-source reference manager that collects, organizes and formats citations.
+155. **[ourworldindata.org](https://ourworldindata.org/)** — Rigorous, beautifully charted data on the world's biggest problems. Free and open.
+156. **[kaggle.com](https://www.kaggle.com/)** — Free datasets, notebooks, ML courses — and free GPU time. Remarkable that it's free.
+157. **[unpaywall.org](https://unpaywall.org/)** — Browser extension that finds legal, free versions of paywalled papers. Free.
+158. **[datasetsearch.research.google.com](https://datasetsearch.research.google.com/)** — Google's search engine dedicated to finding open datasets. Free.
+159. **[data.gov](https://data.gov/)** — The US government's open-data portal: 250,000+ datasets. Free.
+160. **[huggingface.co](https://huggingface.co/)** — The hub for open AI models, datasets and demos. Free to browse and use.
 
 ## Developer Tools
 
-160. **[regex101.com](https://regex101.com/)** — Test and debug regular expressions with live explanation. Indispensable, free.
-161. **[explainshell.com](https://explainshell.com/)** — Paste a shell command and it explains every flag. Free.
-162. **[crontab.guru](https://crontab.guru/)** — Decodes any cron expression instantly. Simple and free.
-163. **[caniuse.com](https://caniuse.com/)** — Browser support tables for every web feature. The reference, free.
-164. **[devdocs.io](https://devdocs.io/)** — Every dev doc in one fast, searchable, offline-capable place. Free.
-165. **[codebeautify.org](https://codebeautify.org/)** — Format/minify just about any code or data format. Free, ad-heavy.
-166. **[transform.tools](https://transform.tools/)** — Convert between data formats and code (JSON↔TS, etc.) instantly. Free.
-167. **[carbon.now.sh](https://carbon.now.sh/)** — Turn code snippets into beautiful shareable images. Free.
-168. **[ray.so](https://www.ray.so/)** — Slick code screenshots from Raycast. Free. (Use the `www` link — the bare domain doesn't load.)
-169. **[shields.io](https://shields.io/)** — Generate the README badges you see on every GitHub repo. Free.
-170. **[phind.com](https://www.phind.com/)** — AI search engine tuned for developers. Free tier available.
-171. **[codepen.io](https://codepen.io/)** — Build and share front-end snippets live in the browser. Free tier covers most use.
-172. **[stackblitz.com](https://stackblitz.com/)** — A full dev environment in the browser — instant Node and web projects. Generous free tier.
-173. **[hoppscotch.io](https://hoppscotch.io/)** — Open-source API client (Postman alternative) that runs in the browser. Free.
-174. **[dbdiagram.io](https://dbdiagram.io/)** — Draw database schemas from a simple text DSL. Free tier is fine for most work.
-175. **[readme.so](https://readme.so/)** — Assemble a proper README from prebuilt sections in minutes. Free.
-176. **[choosealicense.com](https://choosealicense.com/)** — GitHub's plain-English guide to picking an open-source license. Free.
-177. **[toptal.com/developers/gitignore](https://www.toptal.com/developers/gitignore)** — Generate a .gitignore for any combination of languages and tools. Free.
-178. **[pagespeed.web.dev](https://pagespeed.web.dev/)** — Google's free performance, SEO and accessibility audit for any URL.
-179. **[dnschecker.org](https://dnschecker.org/)** — Check DNS propagation across servers worldwide. Free.
-180. **[ipinfo.io](https://ipinfo.io/)** — Instant IP and geolocation lookup, with a free API tier for developers.
-181. **[it-tools.tech](https://it-tools.tech/)** — A single open-source page bundling dozens of handy dev utilities. Free.
-182. **[gchq.github.io](https://gchq.github.io/CyberChef/)** — CyberChef: the "cyber swiss army knife" for encoding, encryption and data. Free, open-source.
-183. **[jwt.io](https://jwt.io/)** — Decode, verify and inspect JSON Web Tokens. Free.
-184. **[webhook.site](https://webhook.site/)** — Instantly inspect webhooks and HTTP requests with a unique URL. Free.
-185. **[godbolt.org](https://godbolt.org/)** — Compiler Explorer: see the assembly your code compiles to, live. Free.
-186. **[jsfiddle.net](https://jsfiddle.net/)** — The classic front-end code playground. Free.
-187. **[codesandbox.io](https://codesandbox.io/)** — Instant, shareable dev sandboxes for web projects. Generous free tier.
-188. **[pythontutor.com](https://pythontutor.com/)** — Visualize code execution step-by-step. Brilliant for learning. Free.
-189. **[devhints.io](https://devhints.io/)** — A big collection of concise developer cheatsheets. Free.
-190. **[tldr.sh](https://tldr.sh/)** — Community-driven simplified man pages with real examples. Free, open-source.
-191. **[ohshitgit.com](https://ohshitgit.com/)** — Plain-language recipes for getting out of git messes. Free.
-192. **[learngitbranching.js.org](https://learngitbranching.js.org/)** — Learn git visually and interactively. Free, open-source.
-193. **[realfavicongenerator.net](https://realfavicongenerator.net/)** — Generate favicons for every platform, done right. Free.
-194. **[publicapis.dev](https://publicapis.dev/)** — A searchable directory of free public APIs to build with. Free.
+161. **[regex101.com](https://regex101.com/)** — Test and debug regular expressions with live explanation. Indispensable, free.
+162. **[explainshell.com](https://explainshell.com/)** — Paste a shell command and it explains every flag. Free.
+163. **[crontab.guru](https://crontab.guru/)** — Decodes any cron expression instantly. Simple and free.
+164. **[caniuse.com](https://caniuse.com/)** — Browser support tables for every web feature. The reference, free.
+165. **[devdocs.io](https://devdocs.io/)** — Every dev doc in one fast, searchable, offline-capable place. Free.
+166. **[codebeautify.org](https://codebeautify.org/)** — Format/minify just about any code or data format. Free, ad-heavy.
+167. **[transform.tools](https://transform.tools/)** — Convert between data formats and code (JSON↔TS, etc.) instantly. Free.
+168. **[carbon.now.sh](https://carbon.now.sh/)** — Turn code snippets into beautiful shareable images. Free.
+169. **[ray.so](https://www.ray.so/)** — Slick code screenshots from Raycast. Free. (Use the `www` link — the bare domain doesn't load.)
+170. **[shields.io](https://shields.io/)** — Generate the README badges you see on every GitHub repo. Free.
+171. **[phind.com](https://www.phind.com/)** — AI search engine tuned for developers. Free tier available.
+172. **[codepen.io](https://codepen.io/)** — Build and share front-end snippets live in the browser. Free tier covers most use.
+173. **[stackblitz.com](https://stackblitz.com/)** — A full dev environment in the browser — instant Node and web projects. Generous free tier.
+174. **[hoppscotch.io](https://hoppscotch.io/)** — Open-source API client (Postman alternative) that runs in the browser. Free.
+175. **[dbdiagram.io](https://dbdiagram.io/)** — Draw database schemas from a simple text DSL. Free tier is fine for most work.
+176. **[readme.so](https://readme.so/)** — Assemble a proper README from prebuilt sections in minutes. Free.
+177. **[choosealicense.com](https://choosealicense.com/)** — GitHub's plain-English guide to picking an open-source license. Free.
+178. **[toptal.com/developers/gitignore](https://www.toptal.com/developers/gitignore)** — Generate a .gitignore for any combination of languages and tools. Free.
+179. **[pagespeed.web.dev](https://pagespeed.web.dev/)** — Google's free performance, SEO and accessibility audit for any URL.
+180. **[dnschecker.org](https://dnschecker.org/)** — Check DNS propagation across servers worldwide. Free.
+181. **[ipinfo.io](https://ipinfo.io/)** — Instant IP and geolocation lookup, with a free API tier for developers.
+182. **[it-tools.tech](https://it-tools.tech/)** — A single open-source page bundling dozens of handy dev utilities. Free.
+183. **[gchq.github.io](https://gchq.github.io/CyberChef/)** — CyberChef: the "cyber swiss army knife" for encoding, encryption and data. Free, open-source.
+184. **[jwt.io](https://jwt.io/)** — Decode, verify and inspect JSON Web Tokens. Free.
+185. **[webhook.site](https://webhook.site/)** — Instantly inspect webhooks and HTTP requests with a unique URL. Free.
+186. **[godbolt.org](https://godbolt.org/)** — Compiler Explorer: see the assembly your code compiles to, live. Free.
+187. **[jsfiddle.net](https://jsfiddle.net/)** — The classic front-end code playground. Free.
+188. **[codesandbox.io](https://codesandbox.io/)** — Instant, shareable dev sandboxes for web projects. Generous free tier.
+189. **[pythontutor.com](https://pythontutor.com/)** — Visualize code execution step-by-step. Brilliant for learning. Free.
+190. **[devhints.io](https://devhints.io/)** — A big collection of concise developer cheatsheets. Free.
+191. **[tldr.sh](https://tldr.sh/)** — Community-driven simplified man pages with real examples. Free, open-source.
+192. **[ohshitgit.com](https://ohshitgit.com/)** — Plain-language recipes for getting out of git messes. Free.
+193. **[learngitbranching.js.org](https://learngitbranching.js.org/)** — Learn git visually and interactively. Free, open-source.
+194. **[realfavicongenerator.net](https://realfavicongenerator.net/)** — Generate favicons for every platform, done right. Free.
+195. **[publicapis.dev](https://publicapis.dev/)** — A searchable directory of free public APIs to build with. Free.
 
 ## Web & UI Generators
 
-195. **[animista.net](https://animista.net/)** — Play with ready-made CSS animations and copy the code. Free.
-196. **[easings.net](https://easings.net/)** — A visual reference of CSS easing functions with copy-paste values. Free.
-197. **[dicebear.com](https://www.dicebear.com/)** — Generate consistent, license-free avatars from any seed. Free, open-source.
-198. **[tableconvert.com](https://tableconvert.com/)** — Convert tables between Markdown, CSV, JSON, HTML and more. Free.
-199. **[responsively.app](https://responsively.app/)** — Preview your site across many device sizes at once. Free, open-source.
+196. **[animista.net](https://animista.net/)** — Play with ready-made CSS animations and copy the code. Free.
+197. **[easings.net](https://easings.net/)** — A visual reference of CSS easing functions with copy-paste values. Free.
+198. **[dicebear.com](https://www.dicebear.com/)** — Generate consistent, license-free avatars from any seed. Free, open-source.
+199. **[tableconvert.com](https://tableconvert.com/)** — Convert tables between Markdown, CSV, JSON, HTML and more. Free.
+200. **[responsively.app](https://responsively.app/)** — Preview your site across many device sizes at once. Free, open-source.
 
 ## Free Hosting & Cloud
 
-200. **[vercel.com](https://vercel.com/)** — Deploy front-end projects free with a git push. The Hobby tier is genuinely generous.
-201. **[netlify.com](https://www.netlify.com/)** — Free static hosting with forms, serverless functions and CI built in. Free tier covers personal projects.
-202. **[pages.cloudflare.com](https://pages.cloudflare.com/)** — Static hosting with unlimited bandwidth, free. The catch: there isn't one.
-203. **[education.github.com/pack](https://education.github.com/pack)** — The GitHub Student Developer Pack: thousands of dollars of dev tools free for anyone with a student email.
+201. **[vercel.com](https://vercel.com/)** — Deploy front-end projects free with a git push. The Hobby tier is genuinely generous.
+202. **[netlify.com](https://www.netlify.com/)** — Free static hosting with forms, serverless functions and CI built in. Free tier covers personal projects.
+203. **[pages.cloudflare.com](https://pages.cloudflare.com/)** — Static hosting with unlimited bandwidth, free. The catch: there isn't one.
+204. **[education.github.com/pack](https://education.github.com/pack)** — The GitHub Student Developer Pack: thousands of dollars of dev tools free for anyone with a student email.
 
 ## Whiteboards, Notes & Productivity
 
-204. **[excalidraw.com](https://excalidraw.com/)** — Hand-drawn-style diagrams and whiteboarding. Free, open-source, no account needed.
-205. **[tldraw.com](https://www.tldraw.com/)** — An infinite collaborative whiteboard in the browser. Free.
-206. **[miro.com](https://miro.com/)** — Polished collaborative whiteboard. Free tier caps you at 3 editable boards.
-207. **[notion.so](https://www.notion.com/)** — Notes, docs and databases in one app. Generous free tier for personal use.
-208. **[obsidian.md](https://obsidian.md/)** — Local-first markdown knowledge base with backlinks. Free for personal use.
-209. **[cryptpad.fr](https://cryptpad.fr/)** — End-to-end encrypted alternative to Google Docs. Free, privacy-first.
-210. **[app.diagrams.net](https://app.diagrams.net/)** — Draw.io: full diagramming (flowcharts, UML, cloud architecture) with zero account and zero cost.
-211. **[mermaid.live](https://mermaid.live/)** — Generate diagrams from plain text. Free, and pairs perfectly with docs and AI output.
-212. **[simplenote.com](https://simplenote.com/)** — Fast, free, synced plain-text notes from Automattic. No premium tier, no ads.
-213. **[pomofocus.io](https://pomofocus.io/)** — Clean Pomodoro timer with task tracking, right in the browser. Free.
-214. **[clockify.me](https://clockify.me/)** — Time tracking that's actually free for unlimited users and projects.
-215. **[when2meet.com](https://www.when2meet.com/)** — The ugly-but-perfect group scheduling grid. Free, no signup needed for participants.
-216. **[raindrop.io](https://raindrop.io/)** — A beautiful, powerful bookmark manager. The free tier is genuinely complete.
-217. **[trello.com](https://trello.com/)** — Simple, visual kanban boards for projects. Free tier is plenty for individuals.
-218. **[joplinapp.org](https://joplinapp.org/)** — Open-source, encryptable note-taking with sync. Free.
-219. **[cal.com](https://cal.com/)** — Open-source scheduling (Calendly alternative). Generous free tier.
+205. **[excalidraw.com](https://excalidraw.com/)** — Hand-drawn-style diagrams and whiteboarding. Free, open-source, no account needed.
+206. **[tldraw.com](https://www.tldraw.com/)** — An infinite collaborative whiteboard in the browser. Free.
+207. **[miro.com](https://miro.com/)** — Polished collaborative whiteboard. Free tier caps you at 3 editable boards.
+208. **[notion.so](https://www.notion.com/)** — Notes, docs and databases in one app. Generous free tier for personal use.
+209. **[obsidian.md](https://obsidian.md/)** — Local-first markdown knowledge base with backlinks. Free for personal use.
+210. **[cryptpad.fr](https://cryptpad.fr/)** — End-to-end encrypted alternative to Google Docs. Free, privacy-first.
+211. **[app.diagrams.net](https://app.diagrams.net/)** — Draw.io: full diagramming (flowcharts, UML, cloud architecture) with zero account and zero cost.
+212. **[mermaid.live](https://mermaid.live/)** — Generate diagrams from plain text. Free, and pairs perfectly with docs and AI output.
+213. **[simplenote.com](https://simplenote.com/)** — Fast, free, synced plain-text notes from Automattic. No premium tier, no ads.
+214. **[pomofocus.io](https://pomofocus.io/)** — Clean Pomodoro timer with task tracking, right in the browser. Free.
+215. **[clockify.me](https://clockify.me/)** — Time tracking that's actually free for unlimited users and projects.
+216. **[when2meet.com](https://www.when2meet.com/)** — The ugly-but-perfect group scheduling grid. Free, no signup needed for participants.
+217. **[raindrop.io](https://raindrop.io/)** — A beautiful, powerful bookmark manager. The free tier is genuinely complete.
+218. **[trello.com](https://trello.com/)** — Simple, visual kanban boards for projects. Free tier is plenty for individuals.
+219. **[joplinapp.org](https://joplinapp.org/)** — Open-source, encryptable note-taking with sync. Free.
+220. **[cal.com](https://cal.com/)** — Open-source scheduling (Calendly alternative). Generous free tier.
 
 ## Privacy & Security
 
-220. **[temp-mail.org](https://temp-mail.org/)** — Disposable inbox in one click. Great for avoiding spam signups.
-221. **[10minutemail.com](https://10minutemail.com/)** — A throwaway email that self-destructs in 10 minutes. Free, no signup.
-222. **[privnote.com](https://privnote.com/)** — Send notes that self-destruct after being read once. Free.
-223. **[file.io](https://www.file.io/)** — Share files that auto-delete after download. Free tier has size limits.
-224. **[accountkiller.com](https://www.accountkiller.com/)** — Step-by-step guides to delete your account from almost any service. Free.
-225. **[simplelogin.io](https://simplelogin.io/)** — Email aliases that hide your real address. Open-source; free tier covers basics.
-226. **[crypt.ee](https://crypt.ee/)** — Encrypted notes and photo storage. Free tier available.
-227. **[haveibeenpwned.com](https://haveibeenpwned.com/)** — Check if your email/password appeared in a data breach. Free, run by a trusted researcher.
-228. **[virustotal.com](https://www.virustotal.com/)** — Scan any file or URL against 70+ antivirus engines. Free.
-229. **[whoer.net](https://whoer.net/)** — Shows exactly what info your browser leaks to websites. Free.
-230. **[bitwarden.com](https://bitwarden.com/)** — Open-source password manager whose free tier does everything most people need: unlimited passwords, synced everywhere.
-231. **[proton.me](https://proton.me/)** — Encrypted email, calendar, drive and VPN from Switzerland. Solid free tier on all of them.
-232. **[signal.org](https://signal.org/)** — The gold standard for private messaging. Free, nonprofit, no ads, no tracking.
-233. **[privacyguides.org](https://www.privacyguides.org/)** — Rigorous, community-vetted recommendations for privacy tools. Free, nonprofit.
-234. **[tosdr.org](https://tosdr.org/)** — "Terms of Service; Didn't Read" — grades the legal terms you never read. Free.
-235. **[2fa.directory](https://2fa.directory/)** — Which sites support two-factor authentication, and how to enable it. Free reference.
-236. **[coveryourtracks.eff.org](https://coveryourtracks.eff.org/)** — The EFF's test of how trackable your browser fingerprint is. Free.
-237. **[ninite.com](https://ninite.com/)** — Install or update dozens of Windows apps in one clean, crapware-free run. Free for personal use.
-238. **[keepassxc.org](https://keepassxc.org/)** — A fully offline, open-source password manager. Free.
-239. **[cryptomator.org](https://cryptomator.org/)** — Transparently encrypt files before they hit your cloud storage. Free, open-source.
-240. **[veracrypt.fr](https://www.veracrypt.fr/)** — Strong open-source disk and volume encryption. Free.
-241. **[torproject.org](https://www.torproject.org/)** — The Tor Browser for genuinely anonymous browsing. Free, nonprofit.
-242. **[ssllabs.com](https://www.ssllabs.com/ssltest/)** — Qualys' deep SSL/TLS configuration test for any site. Free.
-243. **[securityheaders.com](https://securityheaders.com/)** — Grade a website's HTTP security headers instantly. Free.
-244. **[urlscan.io](https://urlscan.io/)** — Safely load and analyze any website in a sandbox. Free.
-245. **[shodan.io](https://www.shodan.io/)** — The search engine for internet-connected devices. Free tier available.
+221. **[temp-mail.org](https://temp-mail.org/)** — Disposable inbox in one click. Great for avoiding spam signups.
+222. **[10minutemail.com](https://10minutemail.com/)** — A throwaway email that self-destructs in 10 minutes. Free, no signup.
+223. **[privnote.com](https://privnote.com/)** — Send notes that self-destruct after being read once. Free.
+224. **[file.io](https://www.file.io/)** — Share files that auto-delete after download. Free tier has size limits.
+225. **[accountkiller.com](https://www.accountkiller.com/)** — Step-by-step guides to delete your account from almost any service. Free.
+226. **[simplelogin.io](https://simplelogin.io/)** — Email aliases that hide your real address. Open-source; free tier covers basics.
+227. **[crypt.ee](https://crypt.ee/)** — Encrypted notes and photo storage. Free tier available.
+228. **[haveibeenpwned.com](https://haveibeenpwned.com/)** — Check if your email/password appeared in a data breach. Free, run by a trusted researcher.
+229. **[virustotal.com](https://www.virustotal.com/)** — Scan any file or URL against 70+ antivirus engines. Free.
+230. **[whoer.net](https://whoer.net/)** — Shows exactly what info your browser leaks to websites. Free.
+231. **[bitwarden.com](https://bitwarden.com/)** — Open-source password manager whose free tier does everything most people need: unlimited passwords, synced everywhere.
+232. **[proton.me](https://proton.me/)** — Encrypted email, calendar, drive and VPN from Switzerland. Solid free tier on all of them.
+233. **[signal.org](https://signal.org/)** — The gold standard for private messaging. Free, nonprofit, no ads, no tracking.
+234. **[privacyguides.org](https://www.privacyguides.org/)** — Rigorous, community-vetted recommendations for privacy tools. Free, nonprofit.
+235. **[tosdr.org](https://tosdr.org/)** — "Terms of Service; Didn't Read" — grades the legal terms you never read. Free.
+236. **[2fa.directory](https://2fa.directory/)** — Which sites support two-factor authentication, and how to enable it. Free reference.
+237. **[coveryourtracks.eff.org](https://coveryourtracks.eff.org/)** — The EFF's test of how trackable your browser fingerprint is. Free.
+238. **[ninite.com](https://ninite.com/)** — Install or update dozens of Windows apps in one clean, crapware-free run. Free for personal use.
+239. **[keepassxc.org](https://keepassxc.org/)** — A fully offline, open-source password manager. Free.
+240. **[cryptomator.org](https://cryptomator.org/)** — Transparently encrypt files before they hit your cloud storage. Free, open-source.
+241. **[veracrypt.fr](https://www.veracrypt.fr/)** — Strong open-source disk and volume encryption. Free.
+242. **[torproject.org](https://www.torproject.org/)** — The Tor Browser for genuinely anonymous browsing. Free, nonprofit.
+243. **[ssllabs.com](https://www.ssllabs.com/ssltest/)** — Qualys' deep SSL/TLS configuration test for any site. Free.
+244. **[securityheaders.com](https://securityheaders.com/)** — Grade a website's HTTP security headers instantly. Free.
+245. **[urlscan.io](https://urlscan.io/)** — Safely load and analyze any website in a sandbox. Free.
+246. **[shodan.io](https://www.shodan.io/)** — The search engine for internet-connected devices. Free tier available.
 
 ## Everyday Utilities & Checkers
 
-246. **[wolframalpha.com](https://www.wolframalpha.com/)** — Computational engine that solves math, science and data queries. Free; step-by-step solutions are paid.
-247. **[alternativeto.net](https://alternativeto.net/)** — Find free/open-source alternatives to any paid app. Free.
-248. **[downdetector.com](https://downdetector.com/)** — Check if a service is down for everyone or just you. Free.
-249. **[flightradar24.com](https://www.flightradar24.com/)** — Live flight tracking on a world map. Generous free tier.
-250. **[camelcamelcamel.com](https://camelcamelcamel.com/)** — Amazon price-history charts so you never overpay. Free.
-251. **[thereviewindex.com](https://thereviewindex.com/)** — Analyzes Amazon reviews to surface fakes and real pros/cons. Free. *(Replaces Fakespot, which Mozilla shut down in 2025.)*
-252. **[fast.com](https://fast.com/)** — Netflix's no-frills internet speed test. Free, instant.
-253. **[speedtest.net](https://www.speedtest.net/)** — The classic bandwidth/latency test with server selection. Free.
-254. **[wetransfer.com](https://wetransfer.com/)** — Send large files with no account. Free tier covers transfers up to a few GB.
-255. **[xe.com](https://www.xe.com/)** — Clean, trustworthy currency conversion and rate history. Free.
-256. **[timeanddate.com](https://www.timeanddate.com/)** — Time zones, a meeting planner and a world clock. Free.
-257. **[taxifarefinder.com](https://www.taxifarefinder.com/)** — Estimate cab fares before you ride, in many cities worldwide. Free.
-258. **[omnicalculator.com](https://www.omnicalculator.com/)** — 3,000+ purpose-built calculators for everything from mortgages to pizza dough. Free.
-259. **[windy.com](https://www.windy.com/)** — Gorgeous interactive weather maps trusted by pilots and sailors. Free tier is plenty.
-260. **[earth.nullschool.net](https://earth.nullschool.net/)** — Real-time animated map of global wind, ocean currents and weather. Hypnotic and free.
-261. **[openstreetmap.org](https://www.openstreetmap.org/)** — The Wikipedia of maps: free, community-edited, and powering half the apps you already use.
-262. **[keepa.com](https://keepa.com/)** — Amazon price-history graphs and drop alerts. Core features free; some data needs a subscription.
-263. **[pairdrop.net](https://pairdrop.net/)** — AirDrop for any device, in the browser — local, private, free. *(Successor to Snapdrop.)*
-264. **[manualslib.com](https://www.manualslib.com/)** — Free user manuals for millions of products, searchable. Ad-supported.
-265. **[ifixit.com](https://www.ifixit.com/)** — Free step-by-step repair guides for phones, laptops and appliances. The repair bible.
-266. **[neal.fun](https://neal.fun/)** — Brilliant interactive toys and explorables ("The Deep Sea," "Draw a Perfect Circle"). Free and delightful.
-267. **[desmos.com](https://www.desmos.com/calculator)** — A gorgeous, powerful online graphing calculator. Completely free.
-268. **[geogebra.org](https://www.geogebra.org/)** — Free interactive tools for geometry, algebra, calculus and more.
-269. **[wttr.in](https://wttr.in/)** — Weather forecasts as clean text — perfect for the terminal. Free.
-270. **[thetruesize.com](https://www.thetruesize.com/)** — Drag countries around the map to see their real size. Free and eye-opening.
-271. **[rome2rio.com](https://www.rome2rio.com/)** — Shows every way to get from A to B — plane, train, bus, car — with prices. Free.
-272. **[what3words.com](https://what3words.com/)** — Every 3m square on Earth has a unique three-word address. Free.
-273. **[wormhole.app](https://wormhole.app/)** — Send files with end-to-end encryption and auto-expiry. Free.
+247. **[wolframalpha.com](https://www.wolframalpha.com/)** — Computational engine that solves math, science and data queries. Free; step-by-step solutions are paid.
+248. **[alternativeto.net](https://alternativeto.net/)** — Find free/open-source alternatives to any paid app. Free.
+249. **[downdetector.com](https://downdetector.com/)** — Check if a service is down for everyone or just you. Free.
+250. **[flightradar24.com](https://www.flightradar24.com/)** — Live flight tracking on a world map. Generous free tier.
+251. **[camelcamelcamel.com](https://camelcamelcamel.com/)** — Amazon price-history charts so you never overpay. Free.
+252. **[thereviewindex.com](https://thereviewindex.com/)** — Analyzes Amazon reviews to surface fakes and real pros/cons. Free. *(Replaces Fakespot, which Mozilla shut down in 2025.)*
+253. **[fast.com](https://fast.com/)** — Netflix's no-frills internet speed test. Free, instant.
+254. **[speedtest.net](https://www.speedtest.net/)** — The classic bandwidth/latency test with server selection. Free.
+255. **[wetransfer.com](https://wetransfer.com/)** — Send large files with no account. Free tier covers transfers up to a few GB.
+256. **[xe.com](https://www.xe.com/)** — Clean, trustworthy currency conversion and rate history. Free.
+257. **[timeanddate.com](https://www.timeanddate.com/)** — Time zones, a meeting planner and a world clock. Free.
+258. **[taxifarefinder.com](https://www.taxifarefinder.com/)** — Estimate cab fares before you ride, in many cities worldwide. Free.
+259. **[omnicalculator.com](https://www.omnicalculator.com/)** — 3,000+ purpose-built calculators for everything from mortgages to pizza dough. Free.
+260. **[windy.com](https://www.windy.com/)** — Gorgeous interactive weather maps trusted by pilots and sailors. Free tier is plenty.
+261. **[earth.nullschool.net](https://earth.nullschool.net/)** — Real-time animated map of global wind, ocean currents and weather. Hypnotic and free.
+262. **[openstreetmap.org](https://www.openstreetmap.org/)** — The Wikipedia of maps: free, community-edited, and powering half the apps you already use.
+263. **[keepa.com](https://keepa.com/)** — Amazon price-history graphs and drop alerts. Core features free; some data needs a subscription.
+264. **[pairdrop.net](https://pairdrop.net/)** — AirDrop for any device, in the browser — local, private, free. *(Successor to Snapdrop.)*
+265. **[manualslib.com](https://www.manualslib.com/)** — Free user manuals for millions of products, searchable. Ad-supported.
+266. **[ifixit.com](https://www.ifixit.com/)** — Free step-by-step repair guides for phones, laptops and appliances. The repair bible.
+267. **[neal.fun](https://neal.fun/)** — Brilliant interactive toys and explorables ("The Deep Sea," "Draw a Perfect Circle"). Free and delightful.
+268. **[desmos.com](https://www.desmos.com/calculator)** — A gorgeous, powerful online graphing calculator. Completely free.
+269. **[geogebra.org](https://www.geogebra.org/)** — Free interactive tools for geometry, algebra, calculus and more.
+270. **[wttr.in](https://wttr.in/)** — Weather forecasts as clean text — perfect for the terminal. Free.
+271. **[thetruesize.com](https://www.thetruesize.com/)** — Drag countries around the map to see their real size. Free and eye-opening.
+272. **[rome2rio.com](https://www.rome2rio.com/)** — Shows every way to get from A to B — plane, train, bus, car — with prices. Free.
+273. **[what3words.com](https://what3words.com/)** — Every 3m square on Earth has a unique three-word address. Free.
+274. **[wormhole.app](https://wormhole.app/)** — Send files with end-to-end encryption and auto-expiry. Free.
 
 ## Writing, Language & AI Assistants
 
-274. **[hemingwayapp.com](https://hemingwayapp.com/)** — Highlights dense, passive and hard-to-read sentences. Free in-browser; desktop/AI features paid.
-275. **[languagetool.org](https://languagetool.org/)** — Grammar and style checker in 25+ languages. Strong free tier; premium upsell.
-276. **[deepl.com](https://www.deepl.com/translator)** — Translation that's often noticeably more natural than Google. Free tier with length limits.
-277. **[quillbot.com](https://quillbot.com/)** — Paraphrase and summarize text. Free tier is limited but useful.
-278. **[perplexity.ai](https://www.perplexity.ai/)** — AI search that cites its sources. Excellent free tier.
-279. **[claude.ai](https://claude.ai/)** — Anthropic's AI assistant — strong at writing, analysis and coding. Free tier available.
-280. **[you.com](https://you.com/)** — AI search and writing tools with multiple models. Free tier available.
-281. **[chatgpt.com](https://chatgpt.com/)** — OpenAI's assistant. The free tier now includes surprisingly capable default models.
-282. **[gemini.google.com](https://gemini.google.com/)** — Google's AI assistant with a strong free tier and deep Google integration.
-283. **[chat.mistral.ai](https://chat.mistral.ai/)** — Le Chat: a fast, capable AI assistant from Mistral. Generous free tier.
-284. **[copilot.microsoft.com](https://copilot.microsoft.com/)** — Microsoft's AI assistant, powered by frontier models. Free to use.
-285. **[powerthesaurus.org](https://www.powerthesaurus.org/)** — Crowdsourced thesaurus that beats the classics. Free, ad-supported.
-286. **[etymonline.com](https://www.etymonline.com/)** — Where words actually come from. A one-person labor of love, free.
-287. **[rhymezone.com](https://www.rhymezone.com/)** — Rhymes, near-rhymes, synonyms and meter. Free, essential for lyricists and poets.
-288. **[ttsmaker.com](https://ttsmaker.com/)** — Free text-to-speech in 100+ languages, with commercial use allowed. Free.
-289. **[otter.ai](https://otter.ai/)** — AI meeting transcription that actually works. Free tier gives ~300 minutes a month.
-290. **[forvo.com](https://forvo.com/)** — Hear how any word is pronounced by native speakers. Free.
+275. **[hemingwayapp.com](https://hemingwayapp.com/)** — Highlights dense, passive and hard-to-read sentences. Free in-browser; desktop/AI features paid.
+276. **[languagetool.org](https://languagetool.org/)** — Grammar and style checker in 25+ languages. Strong free tier; premium upsell.
+277. **[deepl.com](https://www.deepl.com/translator)** — Translation that's often noticeably more natural than Google. Free tier with length limits.
+278. **[quillbot.com](https://quillbot.com/)** — Paraphrase and summarize text. Free tier is limited but useful.
+279. **[perplexity.ai](https://www.perplexity.ai/)** — AI search that cites its sources. Excellent free tier.
+280. **[claude.ai](https://claude.ai/)** — Anthropic's AI assistant — strong at writing, analysis and coding. Free tier available.
+281. **[you.com](https://you.com/)** — AI search and writing tools with multiple models. Free tier available.
+282. **[chatgpt.com](https://chatgpt.com/)** — OpenAI's assistant. The free tier now includes surprisingly capable default models.
+283. **[gemini.google.com](https://gemini.google.com/)** — Google's AI assistant with a strong free tier and deep Google integration.
+284. **[chat.mistral.ai](https://chat.mistral.ai/)** — Le Chat: a fast, capable AI assistant from Mistral. Generous free tier.
+285. **[copilot.microsoft.com](https://copilot.microsoft.com/)** — Microsoft's AI assistant, powered by frontier models. Free to use.
+286. **[powerthesaurus.org](https://www.powerthesaurus.org/)** — Crowdsourced thesaurus that beats the classics. Free, ad-supported.
+287. **[etymonline.com](https://www.etymonline.com/)** — Where words actually come from. A one-person labor of love, free.
+288. **[rhymezone.com](https://www.rhymezone.com/)** — Rhymes, near-rhymes, synonyms and meter. Free, essential for lyricists and poets.
+289. **[ttsmaker.com](https://ttsmaker.com/)** — Free text-to-speech in 100+ languages, with commercial use allowed. Free.
+290. **[otter.ai](https://otter.ai/)** — AI meeting transcription that actually works. Free tier gives ~300 minutes a month.
+291. **[forvo.com](https://forvo.com/)** — Hear how any word is pronounced by native speakers. Free.
 
 ## Career & Job Hunting
 
-291. **[flowcv.com](https://flowcv.com/)** — Polished resume builder with genuinely free PDF export — no watermark tricks.
-292. **[rxresu.me](https://rxresu.me/)** — Reactive Resume: open-source resume builder. Completely free, self-hostable, no upsells.
-293. **[levels.fyi](https://www.levels.fyi/)** — Real, verified tech compensation data by company and level. Free to browse.
-294. **[layoffs.fyi](https://layoffs.fyi/)** — Live tracker of tech industry layoffs. Free and sobering.
-295. **[remoteok.com](https://remoteok.com/)** — One of the biggest remote job boards. Free to browse and apply.
+292. **[flowcv.com](https://flowcv.com/)** — Polished resume builder with genuinely free PDF export — no watermark tricks.
+293. **[rxresu.me](https://rxresu.me/)** — Reactive Resume: open-source resume builder. Completely free, self-hostable, no upsells.
+294. **[levels.fyi](https://www.levels.fyi/)** — Real, verified tech compensation data by company and level. Free to browse.
+295. **[layoffs.fyi](https://layoffs.fyi/)** — Live tracker of tech industry layoffs. Free and sobering.
+296. **[remoteok.com](https://remoteok.com/)** — One of the biggest remote job boards. Free to browse and apply.
 
 ## Health & Fitness
 
-296. **[musclewiki.com](https://musclewiki.com/)** — Click a muscle on a body map, get exercises with video form guides. Free.
-297. **[darebee.com](https://darebee.com/)** — Thousands of free, printable workout programs. Donation-run nonprofit, no ads.
-298. **[examine.com](https://examine.com/)** — Evidence-based summaries of supplement and nutrition research. Basics free; deep-dives paid.
-299. **[cronometer.com](https://cronometer.com/)** — Nutrition tracking with unusually accurate micronutrient data. Free tier is fully functional.
-300. **[medlineplus.gov](https://medlineplus.gov/)** — Trusted, ad-free health information from the US National Library of Medicine. Free.
+297. **[musclewiki.com](https://musclewiki.com/)** — Click a muscle on a body map, get exercises with video form guides. Free.
+298. **[darebee.com](https://darebee.com/)** — Thousands of free, printable workout programs. Donation-run nonprofit, no ads.
+299. **[examine.com](https://examine.com/)** — Evidence-based summaries of supplement and nutrition research. Basics free; deep-dives paid.
+300. **[cronometer.com](https://cronometer.com/)** — Nutrition tracking with unusually accurate micronutrient data. Free tier is fully functional.
+301. **[medlineplus.gov](https://medlineplus.gov/)** — Trusted, ad-free health information from the US National Library of Medicine. Free.
 
 ---
 
