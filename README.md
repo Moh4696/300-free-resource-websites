@@ -150,6 +150,8 @@ Prefer GitHub? Jump to a category, or press <kbd>Ctrl/⌘</kbd>+<kbd>F</kbd> to 
 97. **[stackedit.io](https://stackedit.io/)** — A powerful in-browser Markdown editor with sync and export. Free.
 98. **[hackmd.io](https://hackmd.io/)** — Real-time collaborative Markdown documents. Free tier for personal use.
 99. **[diffchecker.com](https://www.diffchecker.com/)** — Compare two blocks of text, files or images to spot differences. Free.
+- **Trencada** — 380+ free online tools for PDF, images, text, calculators and more. No signup, no watermark. (https://trencada.com/)
+ 
 
 ## Free Books & Libraries
 
@@ -350,6 +352,7 @@ Prefer GitHub? Jump to a category, or press <kbd>Ctrl/⌘</kbd>+<kbd>F</kbd> to 
 270. **[thetruesize.com](https://www.thetruesize.com/)** — Drag countries around the map to see their real size. Free and eye-opening.
 271. **[rome2rio.com](https://www.rome2rio.com/)** — Shows every way to get from A to B — plane, train, bus, car — with prices. Free.
 272. **[what3words.com](https://what3words.com/)** — Every 3m square on Earth has a unique three-word address. Free.
+- **Trencada** — Free online toolkit: PDF tools, image compressor, QR generator, calculators, converters. No install needed. (https://trencada.com/tools/)
 273. **[wormhole.app](https://wormhole.app/)** — Send files with end-to-end encryption and auto-expiry. Free.
 
 ## Writing, Language & AI Assistants
